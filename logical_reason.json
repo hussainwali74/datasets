@@ -1,0 +1,27 @@
+[
+    {
+        "question": "From his house, Lokesh went 15 km to the North. Then he turned west and covered 10 km. Then he turned south and covered 5 km. Finally turning to the east, he covered 10 km. In which direction is he from his house?",
+        "answer": "Let's break down Lokesh's movements step by step:\n 1. Lokesh went 15 km to the North from his house. So after this, he is 15 km north of his house.\n 2. Then, he turned west and covered 10 km. So now he has moved 10 km west from his original northern position.\n 3. After that, he turned south and covered 5 km. So he has now moved 5 km south of his previous western position.\n 4. Finally, he turned east and covered 10 km. So he has now moved 10 km east of his previous southern position.\n To summarize, Lokesh's net movement from his house is:\n - 15 km north\n - 10 km west\n - 5 km south\n - 10 km east\n Now, let's calculate his final position relative to his house:\n - North-South movement: 15 km (north) - 5 km (south) = 10 km (north)\n - East-West movement: 10 km (east) - 10 km (west) = 0 km\n So, Lokesh is 10 km north of his house, and there is no net east-west movement.\n In conclusion, Lokesh is in the north direction from his house.\n"
+    },
+    {
+        "question": "Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?",
+        "answer": "Sachin walks 20 km towards North. He then turns left and walks 40 km. He again turns left and walks 20 km. Finally, he moves 20 km after turning to the left. To calculate how far he is from his starting position, we can visualize his path as a rectangle with sides of length 20 km and 40 km. The distance between his starting point and his final position is the difference between the length of the two sides of the rectangle that are parallel to each other. Therefore, Sachin is 20 km away from his starting position."
+    },
+    {
+        "question":"Sundar runs 20 m towards East and turns to the right and runs 10 m. Then he turns to the right and runs 9 m. Again he turns to right and runs 5 m. After this, he turns to the left and runs 12 m and finally he turns to the right and runs 6 m. Now to which direction is Sundar facing?",
+        "answer":"Sundar runs 20 m towards East and turns to the right and runs 10 m. Then he turns to the right and runs 9 m. Again he turns to right and runs 5 m. After this, he turns to the left and runs 12 m and finally he turns to the right and runs 6 m. To determine which direction Sundar is facing, we can visualize his path as follows:\nN\n|\n|\nW-------+-------E\n|\n|\nS\nSundar starts at point E (East) and moves 20 meters towards East. Then he turns right (South) and moves 10 meters. Next, he turns right (West) and moves 9 meters. Then he turns right (North) and moves 5 meters. After this, he turns left (West) and moves 12 meters. Finally, he turns right (North) and moves 6 meters.\n Therefore, Sundar is facing North 123."
+    },
+    {
+        "question":"One morning after sunrise, Vimal started to walk. During this walking, he met Stephen who was coming from opposite direction. Vimal saw that the shadow of Stephen was to the right of him (Vimal). To which direction was Vimal facing?",
+        "answer":""
+    },
+    {
+        "question":"Radha moves towards South-East a distance of 7 km, then she moves towards West and travels a distance of 14 km. From here, she moves towards North-West a distance of 7 km and finally she moves a distance of 4 km towards east. How far is she now from the starting point? ",
+        "answer":"Let's break down Radha's movements step by step: \n 1. Radha moves 7 km towards South-East. In this movement, she covers 7 km both in the south and east directions (since South-East is a 45-degree angle between south and east). \n 2. Then, she moves 14 km towards West. This movement is entirely in the west direction. \n 3. Next, she moves 7 km towards North-West. In this movement, she covers 7 km both in the north and west directions (since North-West is a 45-degree angle between north and west). \n 4. Finally, she moves 4 km towards East. This movement is entirely in the east direction. \n Now, let's calculate her net movement in the north-south and east-west directions: \n - North-South movement: 7 km (south) - 7 km (north) = 0 km \n - East-West movement: 7 km (east) + 4 km (east) - 14 km (west) - 7 km (west) = 11 km (east) - 21 km (west) = -10 km (west) \n So, Radha's net movement is 10 km west of her starting point, with no net north-south movement. \n To find the straight-line distance from her starting point, we can use the Pythagorean theorem, since there is no net north-south movement: \n distance = √((net east-west movement)² + (net north-south movement)²) \n distance = √((-10 km)² + (0 km)²) \n distance = √(100 km²) \n distance = 10 km \n Radha is now 10 km away from her starting point."
+    },
+    {
+        "question":"",
+        "answer":""
+    }
+]
+
