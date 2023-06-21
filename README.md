@@ -1,1 +1,0 @@
-every folder contain news article in urdu language
