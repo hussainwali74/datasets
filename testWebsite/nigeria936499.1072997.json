@@ -1,0 +1,994 @@
+[
+    {
+        "Question": "Who was Nigeria’s first Senate President?",
+        "optionA": "Evan Enwerem",
+        "optionB": "Nnamdi Azikiwe",
+        "optionC": "Chuba Okadigbo",
+        "optionD": "Pius Anyim",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Who was the first Inspector General of Police in Nigeria?",
+        "optionA": "Sir Harcourt",
+        "optionB": "Ajayi Crowther",
+        "optionC": "Mr. C. W. Duncan",
+        "optionD": "Herbert Macaulay",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What does the green in the Nigerian Police flag stand for?",
+        "optionA": "Young and Agile",
+        "optionB": "Swift",
+        "optionC": "Diversity",
+        "optionD": "Energy and Life",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What does the yellow in the Nigerian Police flag stand for?",
+        "optionA": "Love, Loyalty and Unity",
+        "optionB": "Discipline and Resourcefulness",
+        "optionC": "Security and Safety",
+        "optionD": "Reliable and Dependable",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What does the blue in the Nigerian Police flag stand for?",
+        "optionA": "Love, Loyalty and Unity",
+        "optionB": "Peace and Harmony",
+        "optionC": "Security and Safety",
+        "optionD": "Justice",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Who was the first female psychiatrist in Nigeria?",
+        "optionA": "Dr. Ramsome Kuti",
+        "optionB": "Dr. Bertha Johnson",
+        "optionC": "Mary Slessor",
+        "optionD": "Dr. Martha Johnson",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When is Democracy Day in Nigeria",
+        "optionA": "12-Jun",
+        "optionB": "29-May",
+        "optionC": "1-Oct",
+        "optionD": "27-May",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "How many ethnic groups are there in Nigeria?",
+        "optionA": "3",
+        "optionB": "36",
+        "optionC": "Over 250",
+        "optionD": "Over 774",
+        "Correct": "Correct answer is CNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the largest state in Nigeria by land mass?",
+        "optionA": "Lagos State",
+        "optionB": "Sokoto State",
+        "optionC": "Edo State",
+        "optionD": "Niger State",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Abuja?",
+        "optionA": "Centre of Unity",
+        "optionB": "Centre of Excellence",
+        "optionC": "Light of the Nation",
+        "optionD": "Heartbeat of The Nation",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Zamfara State?",
+        "optionA": "Sunshine State",
+        "optionB": "State of Harmony",
+        "optionC": "Jewel of the Savannah",
+        "optionD": "Farming is Our Pride",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the slogan of Yobe State?",
+        "optionA": "Pride of the Sahel",
+        "optionB": "The Power State",
+        "optionC": "Land of Equity",
+        "optionD": "Coal City State",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Taraba State?",
+        "optionA": "Nature's Gift to the Nation",
+        "optionB": "Jewel of the Savannah",
+        "optionC": "The People's Paradise",
+        "optionD": "Pearl of Tourism",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Sokoto State?",
+        "optionA": "Pride of the Sahel",
+        "optionB": "Land of Equity",
+        "optionC": "Seat of the Caliphate",
+        "optionD": "Home of Hospitality",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Rivers State?",
+        "optionA": "The Oil City",
+        "optionB": "Treasure Base of the Nation",
+        "optionC": "Nature's Gift to the Nation",
+        "optionD": "Glory of All Lands",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Plateau State?",
+        "optionA": "Home of Peace",
+        "optionB": "Salt of the Nation",
+        "optionC": "Treasure Base of the Nation",
+        "optionD": "Home of Peace and Tourism",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Oyo State?",
+        "optionA": "Pace-Setter State",
+        "optionB": "Gateway State",
+        "optionC": "Sunshine State",
+        "optionD": "Land of Beauty",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Osun State?",
+        "optionA": "State of the Living Spring (formerly Land of Virtue)",
+        "optionB": "State of Harmony",
+        "optionC": "Land of Equity",
+        "optionD": "Heartbeat of The Nation",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Ogun State?",
+        "optionA": "Sunshine State",
+        "optionB": "Gateway State",
+        "optionC": "Pace-Setter State",
+        "optionD": "State of the Living Spring (formerly Land of Virtue)",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Niger State?",
+        "optionA": "The Power State",
+        "optionB": "Gateway State",
+        "optionC": "Sunshine State",
+        "optionD": "Farming is Our Pride",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Nasarawa State?",
+        "optionA": "The Power State",
+        "optionB": "Home of Solid Minerals",
+        "optionC": "The Confluence State",
+        "optionD": "Land of Equity",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Lagos State?",
+        "optionA": "Centre of Unity",
+        "optionB": "Centre of Excellence",
+        "optionC": "The Big Heart",
+        "optionD": "Land of Promise",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Kwara State?",
+        "optionA": "State of Harmony",
+        "optionB": "Centre of Learning (formerly Liberal State)",
+        "optionC": "Centre of Unity",
+        "optionD": "Pearl of Tourism",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Kogi State?",
+        "optionA": "State of Harmony",
+        "optionB": "Pride of the Sahel",
+        "optionC": "Sunshine State",
+        "optionD": "The Confluence State",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Kebbi State?",
+        "optionA": "The New World",
+        "optionB": "Home of Peace and Tourism",
+        "optionC": "Land of Equity",
+        "optionD": "The Power State",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Katsina State?",
+        "optionA": "Home of Hospitality",
+        "optionB": "The Power State",
+        "optionC": "Treasure Base of the Nation",
+        "optionD": "Farming is Our Pride",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Kano State?",
+        "optionA": "Centre of Commerce",
+        "optionB": "Land of Equity",
+        "optionC": "Pace-Setter State",
+        "optionD": "Seat of the Caliphate",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Jigawa State?",
+        "optionA": "Salt of the Nation",
+        "optionB": "State of Harmony",
+        "optionC": "State of the Living Spring",
+        "optionD": "The New World",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Imo State?",
+        "optionA": "The Big Heart",
+        "optionB": "Home of Hospitality",
+        "optionC": "Eastern Heartland (formerly Land of Hope)",
+        "optionD": "Centre of Excellence",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Gombe State?",
+        "optionA": "Jewel of the Savannah",
+        "optionB": "Pride of the Sahel",
+        "optionC": "The New World",
+        "optionD": "Pearl of Tourism",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Enugu State?",
+        "optionA": "Eastern Heartland",
+        "optionB": "Land of Equity",
+        "optionC": "Sunshine State",
+        "optionD": "Coal City State",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Ekiti State?",
+        "optionA": "State of Harmony",
+        "optionB": "Land of Honour and Integrity",
+        "optionC": "Pride of the Sahel",
+        "optionD": "Farming is Our Pride",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Edo State?",
+        "optionA": "Centre of Learning",
+        "optionB": "The Confluence State",
+        "optionC": "Heartbeat of The Nation",
+        "optionD": "Land of Equity",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Ebonyi State?",
+        "optionA": "Home of Hospitality",
+        "optionB": "Centre of Excellence",
+        "optionC": "Salt of the Nation",
+        "optionD": "Heartbeat of The Nation",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Delta State?",
+        "optionA": "The Big Heart",
+        "optionB": "Eastern Heartland",
+        "optionC": "Farming is Our Pride",
+        "optionD": "Pearl of Tourism",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Cross River State?",
+        "optionA": "State of Harmony",
+        "optionB": "State of the Living Spring",
+        "optionC": "Centre of Unity",
+        "optionD": "The People's Paradise",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Benue State?",
+        "optionA": "Heartbeat of The Nation",
+        "optionB": "The Confluence State",
+        "optionC": "Food Basket of the Nation",
+        "optionD": "Home of Peace and Tourism",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the slogan of Bayelsa State?",
+        "optionA": "Glory of All Lands",
+        "optionB": "Treasure Base of the Nation",
+        "optionC": "Nature's Gift to the Nation",
+        "optionD": "Gateway State",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Bauchi State?",
+        "optionA": "Jewel of the Savannah",
+        "optionB": "Home of Hospitality",
+        "optionC": "Sunshine State",
+        "optionD": "Pearl of Tourism",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Anambra State?",
+        "optionA": "Coal City State",
+        "optionB": "Light of the Nation (formerly Home for All)",
+        "optionC": "The New World",
+        "optionD": "Pace-Setter State",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the slogan of Akwa Ibom State?",
+        "optionA": "Land of Promise",
+        "optionB": "The People's Paradise",
+        "optionC": "Glory of All Lands",
+        "optionD": "Light of the Nation",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the slogan of Adamawa State?",
+        "optionA": "State of Harmony",
+        "optionB": "Gateway State",
+        "optionC": "Land of Equity",
+        "optionD": "Land of Beauty",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the slogan of Abia State?",
+        "optionA": "Food Basket of the Nation",
+        "optionB": "Land of Honour and Integrity",
+        "optionC": "God's Own State",
+        "optionD": "Centre of Commerce",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Zamfara State?",
+        "optionA": "Lafia",
+        "optionB": "Gusau",
+        "optionC": "Zaria",
+        "optionD": "Zamfara",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Yobe State?",
+        "optionA": "Damaturu",
+        "optionB": "Yobe",
+        "optionC": "Dikwa",
+        "optionD": "Monguno",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Sokoto State?",
+        "optionA": "Sokoto",
+        "optionB": "Jalingo",
+        "optionC": "Damaturu",
+        "optionD": "Gusau",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the capital of Rivers State?",
+        "optionA": "Cross River",
+        "optionB": "Port Harcourt",
+        "optionC": "Bonny Island",
+        "optionD": "Onne",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the capital of Plateau State?",
+        "optionA": "Plateau",
+        "optionB": "Bauchi",
+        "optionC": "Jos",
+        "optionD": "Jalingo",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Oyo State?",
+        "optionA": "Ife",
+        "optionB": "Zaria",
+        "optionC": "Oyo Empire",
+        "optionD": "Ibadan",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Osun State?",
+        "optionA": "Osogbo",
+        "optionB": "Osun",
+        "optionC": "Ilorin",
+        "optionD": "Abeokuta",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Ondo State?",
+        "optionA": "Damaturu",
+        "optionB": "Ilesa",
+        "optionC": "Akure",
+        "optionD": "Ikeja",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Ogun State?",
+        "optionA": "Ogun",
+        "optionB": "Ibadan",
+        "optionC": "Abeokuta",
+        "optionD": "Ado-Ekiti",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Niger State?",
+        "optionA": "Niger",
+        "optionB": "Lokoja",
+        "optionC": "Suleja",
+        "optionD": "Minna",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Nasarawa State?",
+        "optionA": "Nasarawa",
+        "optionB": "Lafia",
+        "optionC": "Minna",
+        "optionD": "Kebbi",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Kwara State?",
+        "optionA": "Ibadan",
+        "optionB": "Abeokuta",
+        "optionC": "Ilorin",
+        "optionD": "Kwara",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Kogi State?",
+        "optionA": "Kogi",
+        "optionB": "Lokoja",
+        "optionC": "Makurdi",
+        "optionD": "Lafia",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the capital of Kebbi State?",
+        "optionA": "Kebbi",
+        "optionB": "Birnin Kebbi",
+        "optionC": "Zaria",
+        "optionD": "Gusau",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Katsina State?",
+        "optionA": "Kaduna",
+        "optionB": "Zaria",
+        "optionC": "Kano",
+        "optionD": "Katsina",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Kano State?",
+        "optionA": "Kaduna",
+        "optionB": "Katsina",
+        "optionC": "Kano",
+        "optionD": "Kebbi",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Kaduna State?",
+        "optionA": "Kano",
+        "optionB": "Katsina",
+        "optionC": "Kaduna",
+        "optionD": "Kebbi",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Jigawa State?",
+        "optionA": "Dutse",
+        "optionB": "Minna",
+        "optionC": "Jigawa",
+        "optionD": "Lafia",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Imo State?",
+        "optionA": "Orlu",
+        "optionB": "Okigwe",
+        "optionC": "Owerri",
+        "optionD": "Aba",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Gombe State?",
+        "optionA": "Makurdi",
+        "optionB": "Gombe",
+        "optionC": "Minna",
+        "optionD": "Jos",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Ekiti State?",
+        "optionA": "Ede",
+        "optionB": "Akure",
+        "optionC": "Benin City",
+        "optionD": "Ado-Ekiti",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the capital of Edo State?",
+        "optionA": "Edo",
+        "optionB": "Auchi",
+        "optionC": "Benin City",
+        "optionD": "Osogbo",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Ebonyi State?",
+        "optionA": "Afikpo",
+        "optionB": "Ebonyi",
+        "optionC": "Abakaliki",
+        "optionD": "Okigwe",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the capital of Delta State?",
+        "optionA": "Sapele",
+        "optionB": "Warri",
+        "optionC": "Ugheli",
+        "optionD": "Asaba",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Cross River State?",
+        "optionA": "Calabar",
+        "optionB": "Uyo",
+        "optionC": "Ikom",
+        "optionD": "Obudu",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Borno State?",
+        "optionA": "Yola",
+        "optionB": "Maiduguri",
+        "optionC": "Damaturu",
+        "optionD": "Borno",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Benue State?",
+        "optionA": "Makurdi",
+        "optionB": "Maiduguri",
+        "optionC": "Lokoja",
+        "optionD": "Benue",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Bayelsa State?",
+        "optionA": "Warri",
+        "optionB": "Sapele",
+        "optionC": "Bayelsa",
+        "optionD": "Yenagoa",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Bauchi State?",
+        "optionA": "Bauchi",
+        "optionB": "Lokoja",
+        "optionC": "Minna",
+        "optionD": "Akure",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the capital of Akwa Ibom State?",
+        "optionA": "Ikot Ekpene",
+        "optionB": "Eket",
+        "optionC": "Umuahia",
+        "optionD": "Uyo",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the capital of Adamawa State?",
+        "optionA": "Gusau",
+        "optionB": "Yola",
+        "optionC": "Birnin Kebbi",
+        "optionD": "Adamawa",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the capital of Abia State?",
+        "optionA": "Umuahia",
+        "optionB": "Aba",
+        "optionC": "Awka",
+        "optionD": "Owerri",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What was the first political party in Nigeria?",
+        "optionA": "Unity Party of Nigeria",
+        "optionB": "Nigerian National Democratic Party",
+        "optionC": "Nigerian People's Party",
+        "optionD": "National Party of Nigeria",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When was the first ASUU Strike in Nigeria?",
+        "optionA": "1985",
+        "optionB": "1988",
+        "optionC": "1995",
+        "optionD": "1998",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When was the first Coronavirus death recorded in Nigeria?",
+        "optionA": "23-Mar-20",
+        "optionB": "23-Apr-20",
+        "optionC": "27-Feb-20",
+        "optionD": "23-Nov-19",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "When did Coronavirus get to Nigeria?",
+        "optionA": "27-Feb-19",
+        "optionB": "27-Jan-20",
+        "optionC": "20-Nov-19",
+        "optionD": "27-Feb-20",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Who was the first Nigerian prime minister?",
+        "optionA": "Abubakar Tafawa Balewa",
+        "optionB": "Ahmadu Bello",
+        "optionC": "Obafemi Awolowo",
+        "optionD": "Nnamdi Azikiwe",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Who was the first democratically elected President of Nigeria?",
+        "optionA": "Dr. Nnamdi Azikiwe",
+        "optionB": "General Aguiyi Ironsi",
+        "optionC": "Alhaji Shehu Aliyu Shagari",
+        "optionD": "General Murtala Muhammed",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Who was the first indigenous chartered accountant in Nigeria?",
+        "optionA": "Alhaji Razak",
+        "optionB": "Nnamdi Okwuadigbo",
+        "optionC": "Joy Adewuyi",
+        "optionD": "Akintola Williams",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Who was the first indigenous lawyer in Nigeria?",
+        "optionA": "Femi Falana",
+        "optionB": "Charles Oputa",
+        "optionC": "Sapara Williams",
+        "optionD": "Abimbola Akeredolu",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Who was the first and only prime minister of Nigeria?",
+        "optionA": "Abubakar Tafawa Balewa",
+        "optionB": "Ahmadu Bello",
+        "optionC": "Nnamdi Azikiwe",
+        "optionD": "Yakubu Gowon",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What are the two major religions in Nigeria?",
+        "optionA": "Christianity and Traditional",
+        "optionB": "Christianity and Judism",
+        "optionC": "Christianity and Islam",
+        "optionD": "Islam and Hinduism",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When did Nigeria change from right-hand drive to the left-hand drive?",
+        "optionA": "2nd April 1973",
+        "optionB": "1st April 1970",
+        "optionC": "2nd May 1972",
+        "optionD": "2nd April 1972",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Who composed the Nigerian national anthem - 'Arise O Compatriots'?",
+        "optionA": "Taiwo Akinkumi",
+        "optionB": "Ben Odiase",
+        "optionC": "Lillian Jean Williams",
+        "optionD": "Flora Shaw",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Where is the name Nigeria derived from?",
+        "optionA": "Niger Republic",
+        "optionB": "Naija",
+        "optionC": "River Niger",
+        "optionD": "Niger State",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What are the colours of the Nigerian flag?",
+        "optionA": "Blue and white",
+        "optionB": "Green and white",
+        "optionC": "Green and Yellow",
+        "optionD": "Yellow and Red",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Nigeria is intersected by which two major Rivers?",
+        "optionA": "River Niger and River Benue",
+        "optionB": "Imo River and Benue River",
+        "optionC": "River Niger and River Congo",
+        "optionD": "River Nile and River Benue",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Who amalgamated the Northern and Southern protectorates of Nigeria?",
+        "optionA": "Frederick Bedford",
+        "optionB": "Lord Lugard",
+        "optionC": "John Beecroft",
+        "optionD": "Charles Barter",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Who was the first Inspector-General of Police in Nigeria?",
+        "optionA": "Louis Orok Edet",
+        "optionB": "Suleiman Abba",
+        "optionC": "Mohammed Abubakar Adamu",
+        "optionD": "Solomon E. Arase",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What are the three arms of government in Nigeria?",
+        "optionA": "President, Governor and Chairman",
+        "optionB": "Executive, Judiciary and Legislative",
+        "optionC": "President, Vice President and Senate President",
+        "optionD": "Presidency, Senate and House of Representatives",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Ajaokuta is famous for?",
+        "optionA": "Coal",
+        "optionB": "Oil and Gas",
+        "optionC": "Iron and Steel",
+        "optionD": "Rice",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Nupe Ethic group is predominantly found in which Nigerian state?",
+        "optionA": "Kwara State",
+        "optionB": "Kogi State",
+        "optionC": "Benue State",
+        "optionD": "Niger State",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Ibibio ethnic group is predominantly found in which Nigerian state?",
+        "optionA": "Cross River State",
+        "optionB": "Akwa Ibom State",
+        "optionC": "Edo State",
+        "optionD": "Delta State",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Who is Nigeria's first female novelist?",
+        "optionA": "Chimamanda Adichie",
+        "optionB": "Flora Nwapa",
+        "optionC": "Buchi Emecheta",
+        "optionD": "Bilkisu Funtuwa",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the plays is NOT written by Wole Soyinka?",
+        "optionA": "The lion and the jewel",
+        "optionB": "The gods are not to blame",
+        "optionC": "A dance of the forests",
+        "optionD": "Death and the kings horseman",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the motto of the National Youth Service Corps (NYSC)?",
+        "optionA": "Success is power",
+        "optionB": "Service and humility",
+        "optionC": "Knowledge is power",
+        "optionD": "After service comes gain",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The first aircraft in Nigeria landed in Kano State in what year?",
+        "optionA": "1-Oct-60",
+        "optionB": "1-Nov-25",
+        "optionC": "2-Jan-05",
+        "optionD": "10-Mar-30",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Tin is majorly found in",
+        "optionA": "Jos",
+        "optionB": "Enugu",
+        "optionC": "Kano",
+        "optionD": "Owerri",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Oil can be found in one of the following states in Nigeria",
+        "optionA": "Anambra",
+        "optionB": "Kaduna",
+        "optionC": "Ondo",
+        "optionD": "Ekiti",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The Aba Women Riot took place in what year?",
+        "optionA": "1975",
+        "optionB": "1905",
+        "optionC": "1929",
+        "optionD": "1911",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Nigeria civil war started in what year?",
+        "optionA": "1967",
+        "optionB": "1970",
+        "optionC": "1966",
+        "optionD": "1985",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in what year?",
+        "optionA": "1959",
+        "optionB": "1914",
+        "optionC": "1963",
+        "optionD": "1960",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What year was ECOWAS established?",
+        "optionA": "28-May-75",
+        "optionB": "14-May-63",
+        "optionC": "1-May-66",
+        "optionD": "28-May-00",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "When did Nigeria become a republic?",
+        "optionA": "29-May-99",
+        "optionB": "15-Jan-66",
+        "optionC": "1-Oct-60",
+        "optionD": "1-Oct-63",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Who stopped the killing of twins in Calabar?",
+        "optionA": "Henry Townsend",
+        "optionB": "Herbert Marculey",
+        "optionC": "Mongo Park",
+        "optionD": "Mary Slessor",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Who won the presidential election in 1993 and was imprisoned?",
+        "optionA": "Abdulsalam Abubakar",
+        "optionB": "Moshood Abiola",
+        "optionC": "Olusegun Obasanjo",
+        "optionD": "Ernest Shonekan",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Who was the first democratic vice president of Nigeria?",
+        "optionA": "Shehu Shagari",
+        "optionB": "Alex Ekwueme",
+        "optionC": "Babafemi Ogundipe",
+        "optionD": "Chukwuma Kaduna Nzeogwu",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Who was the first indigenous speaker of the House of Representatives’ in Nigeria?",
+        "optionA": "Nnamdi Azikiwe",
+        "optionB": "Nwafor Orizu",
+        "optionC": "Jaja Wachuku",
+        "optionD": "Akintola Williams",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When was the Nigerian Airforce founded?",
+        "optionA": "3-Mar-60",
+        "optionB": "18-Apr-64",
+        "optionC": "14-Aug-58",
+        "optionD": "27-Oct-64",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When was Central Bank of Nigeria established?",
+        "optionA": "1958",
+        "optionB": "1953",
+        "optionC": "1960",
+        "optionD": "1963",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "How was Sir Dele Giwa assassinated?",
+        "optionA": "A gun",
+        "optionB": "A letter bomb",
+        "optionC": "A knife",
+        "optionD": "Bow and Arrow",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Who is known as the “King of Afro Beats” in Nigeria?",
+        "optionA": "Fela Anikulapo Kuti",
+        "optionB": "Sunny Ade",
+        "optionC": "Shina Peters",
+        "optionD": "Sonny Okosun",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Who was Nigeria's first military head of state?",
+        "optionA": "Yakubu Gowon",
+        "optionB": "Ibrahim Babangida",
+        "optionC": "Johnson Aguiyi-Ironsi",
+        "optionD": "Olusegun Obasanjo",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When was Nigeria’s first refinery built?",
+        "optionA": "1960",
+        "optionB": "1973",
+        "optionC": "1980",
+        "optionD": "1965",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is Nigeria’s national motto?",
+        "optionA": "Justice and Fairness",
+        "optionB": "Peace and Unity",
+        "optionC": "Unity and Faith, Peace and Progress",
+        "optionD": "Faith and Progress",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Who was the first female Major-General in the Nigerian Army?",
+        "optionA": "Aderonke Kale",
+        "optionB": "Margaret Ekpo",
+        "optionC": "Folake Solanke",
+        "optionD": "Grace Alele-Williams",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What does the white color in the Nigerian flag stand for?",
+        "optionA": "Peace",
+        "optionB": "Unity",
+        "optionC": "Sacred",
+        "optionD": "Religious",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What does the black shield in the Nigerian coat of arms stand for?",
+        "optionA": "Fertile soil",
+        "optionB": "Security",
+        "optionC": "Protection",
+        "optionD": "Massacre",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What do the two horses on the Nigerian coat of arms represent?",
+        "optionA": "Dignity",
+        "optionB": "Strength",
+        "optionC": "Speed",
+        "optionD": "Capacity",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The leader of the Northern People’s Congress was",
+        "optionA": "Yakubu Maitama Sule",
+        "optionB": "AbubakarTafawa Balewa",
+        "optionC": "Aminu Kano",
+        "optionD": "Ahmadu Bello",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "One of the functions of the Ministry of Foreign Affairs is the ________",
+        "optionA": "Deportation of illegal aliens",
+        "optionB": "Issuance of Passports",
+        "optionC": "Defence of the Country’s Borders",
+        "optionD": "Promotion of national interests",
+        "Correct": "Correct answer is D"
+    }
+]

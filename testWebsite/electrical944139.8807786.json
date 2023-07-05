@@ -1,0 +1,362 @@
+[
+    {
+        "Question": "Seven thousand volts can be expressed as",
+        "optionA": "7 kV",
+        "optionB": "7 MV",
+        "optionC": "7 mV",
+        "optionD": "either 7 kV or 7 mV",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is not an electrical quantity?",
+        "optionA": "voltage",
+        "optionB": "current",
+        "optionC": "distance",
+        "optionD": "power",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The quantity 3.3 × 103 is the same as",
+        "optionA": "330",
+        "optionB": "3,300",
+        "optionC": "33,000",
+        "optionD": "0.0033",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When these numbers are added, (87 × 105) + (2.5 × 106), the result is",
+        "optionA": "1.12 × 104",
+        "optionB": "11.2 × 105",
+        "optionC": "112 × 105",
+        "optionD": "1,120 × 106",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When converting 0.16 mA to microamperes, the result is",
+        "optionA": "16 µA",
+        "optionB": "160 µA",
+        "optionC": "1,600 µA",
+        "optionD": "0.0016 µA",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The number 3.2 × 10–5 A expressed using a metric prefix is",
+        "optionA": "32 µA",
+        "optionB": "3.3 µA",
+        "optionC": "320 mA",
+        "optionD": "3,200 mA",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Eighteen thousand watts is the same as",
+        "optionA": "18 mW",
+        "optionB": "18 MW",
+        "optionC": "18 kW",
+        "optionD": "18 µW",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The number of millivolts in 0.06 kilovolts is",
+        "optionA": "600 V",
+        "optionB": "6,000 mV",
+        "optionC": "60,000 mV",
+        "optionD": "600,000 mV",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The number of microamperes in 2 milliamperes is",
+        "optionA": "2 µA",
+        "optionB": "20 µA",
+        "optionC": "200 µA",
+        "optionD": "2,000 µA",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The number of kilowatts in 135 milliwatts is",
+        "optionA": "1.35 × 10–4 kW",
+        "optionB": "135 × 10–3 kW",
+        "optionC": "0.0135 kW",
+        "optionD": "0.00135 kW",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "When converting 7,000 nA to microamperes, the result is",
+        "optionA": "0.007 µA",
+        "optionB": "0.7 µA",
+        "optionC": "700 µA",
+        "optionD": "7 µA",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The number 65,000 expressed in scientific notation as a number between 1 and 10 times a power of ten is",
+        "optionA": "0.65 × 104",
+        "optionB": "6.5 × 104",
+        "optionC": "65 × 104",
+        "optionD": "650 × 103",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Resistance is measured in",
+        "optionA": "henries",
+        "optionB": "ohms",
+        "optionC": "hertz",
+        "optionD": "watts",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "When these numbers are multiplied, (6 × 103) (5 × 105), the result is",
+        "optionA": "3 × 108",
+        "optionB": "30 × 108",
+        "optionC": "300 × 109",
+        "optionD": "3,000 × 107",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The current in a given circuit is not to exceed 24 A. Which value of fuse is best?",
+        "optionA": "a fuse is not necessary",
+        "optionB": "10 A",
+        "optionC": "24 A",
+        "optionD": "20 A",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "An ohmmeter is an instrument for measuring",
+        "optionA": "current",
+        "optionB": "voltage",
+        "optionC": "resistance",
+        "optionD": "wattage",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A red, red, orange, gold resistor has a nominal value of",
+        "optionA": "22,000 Ω",
+        "optionB": "2,200 Ω",
+        "optionC": "22 Ω",
+        "optionD": "2.2 Ω",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "An ammeter is an electrical instrument used to measure",
+        "optionA": "current",
+        "optionB": "voltage",
+        "optionC": "resistance",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A neutral atom with an atomic number of five has how many electrons?",
+        "optionA": "1",
+        "optionB": "5",
+        "optionC": "none",
+        "optionD": "depends on the type of atom",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A wiper is the sliding contact in a",
+        "optionA": "switch",
+        "optionB": "photoconductive cell",
+        "optionC": "thermistor",
+        "optionD": "potentiometer",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "If there is 6 A of current through the filament of a lamp, how many coulombs of charge move through the filament in 1.75 s?",
+        "optionA": "10.5 C",
+        "optionB": "105 C",
+        "optionC": "3.4 C",
+        "optionD": "34 C",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A multimeter measures",
+        "optionA": "current",
+        "optionB": "voltage",
+        "optionC": "resistance",
+        "optionD": "current, voltage, and resistance",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The unit of electrical charge is the",
+        "optionA": "volt",
+        "optionB": "ampere",
+        "optionC": "joule",
+        "optionD": "coulomb",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A material that does not allow current under normal conditions is a(n)",
+        "optionA": "insulator",
+        "optionB": "conductor",
+        "optionC": "semi-conductor",
+        "optionD": "valence",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The colored bands for a 4,700 ohm resistor with a ten percent tolerance are",
+        "optionA": "yellow, violet, red, gold",
+        "optionB": "yellow, violet, orange, gold",
+        "optionC": "yellow, violet, red, silver",
+        "optionD": "orange, violet, red, silver",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When the current is 2.5 A, how many coulombs pass a point in 0.2 s?",
+        "optionA": "12.5 C",
+        "optionB": "1.25 C",
+        "optionC": "0.5 C",
+        "optionD": "5 C",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Eight-tenths coulomb passes a point in 4 s. The current in amperes is",
+        "optionA": "1.6 A",
+        "optionB": "16 A",
+        "optionC": "2 A",
+        "optionD": "0.2 A",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A thermistor is a type of",
+        "optionA": "switch",
+        "optionB": "resistor",
+        "optionC": "battery",
+        "optionD": "power supply",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Electrons in the outer orbit are called",
+        "optionA": "nuclei",
+        "optionB": "valences",
+        "optionC": "waves",
+        "optionD": "shells",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The conductance of an 8 ohm resistance is",
+        "optionA": "12.5 mS",
+        "optionB": "8 mS",
+        "optionC": "12 S",
+        "optionD": "125 mS",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "When placed close together, two positively charged materials will",
+        "optionA": "attract",
+        "optionB": "become neutral",
+        "optionC": "become negative",
+        "optionD": "repel",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is not a type of energy source?",
+        "optionA": "generator",
+        "optionB": "rheostat",
+        "optionC": "solar cell",
+        "optionD": "battery",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The maximum resistance value for a brown, red, yellow, gold resistor is",
+        "optionA": "126,000 Ω",
+        "optionB": "126,600 Ω",
+        "optionC": "114,000 Ω",
+        "optionD": "132,000 Ω",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The minimum resistance value for a blue, gray, red, silver resistor is",
+        "optionA": "612 Ω",
+        "optionB": "6,120 Ω",
+        "optionC": "6,800 Ω",
+        "optionD": "6,460 Ω",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Current flows in a circuit when",
+        "optionA": "a switch is opened",
+        "optionB": "a switch is closed",
+        "optionC": "the switch is either open or closed",
+        "optionD": "there is no voltage",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The unit of electrical charge is the",
+        "optionA": "coulomb",
+        "optionB": "joule",
+        "optionC": "volt",
+        "optionD": "watt",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A voltmeter is connected across the current path.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A neutral atom is one with an equal number of protons and electrons.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "An open circuit is one that has a complete current path.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Resistance limits the current.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A free electron is a valence electron that has broken away from its parent atom.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The atomic number is the number of neutrons in the nucleus.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A potentiometer is a two-terminal variable resistor.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Free electrons make current possible.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "An ammeter is connected across the current path.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    }
+]

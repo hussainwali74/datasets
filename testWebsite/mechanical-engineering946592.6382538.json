@@ -1,0 +1,362 @@
+[
+    {
+        "Question": "The component that connects the steering rack to the knuckles is",
+        "optionA": "tie-rod",
+        "optionB": "sector gear",
+        "optionC": "pivot",
+        "optionD": "spline",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "The coefficient of friction for the clutch facing is approximately",
+        "optionA": "0.1",
+        "optionB": "0.4",
+        "optionC": "0.8",
+        "optionD": "1.2",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following indicates a multigrade oil ?",
+        "optionA": "SAE 30",
+        "optionB": "API SF",
+        "optionC": "SAE 20 W-50",
+        "optionD": "API 50",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The petrol engines are also known as",
+        "optionA": "spark ignition (S.I.) engines",
+        "optionB": "compression ignition (C.I.) engines",
+        "optionC": "steam engines",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The valve overlap in four stroke petrol engines is approximately",
+        "optionA": "30°",
+        "optionB": "60°",
+        "optionC": "90°",
+        "optionD": "120°",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The cetane number of a Diesel fuel is a measure of",
+        "optionA": "volatility",
+        "optionB": "viscosity",
+        "optionC": "ignition quality",
+        "optionD": "delay period",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The air gap between the central electrode and ground (or side) electrode of a spark plug is around",
+        "optionA": "0.2 mm",
+        "optionB": "0.5 mm",
+        "optionC": "1 mm",
+        "optionD": "1.5 mm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The cetane rating of Diesel fuel is in the order of",
+        "optionA": "25",
+        "optionB": "45",
+        "optionC": "70",
+        "optionD": "90",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The natural gas is compressed in a CNG cylinder at a pressure of",
+        "optionA": "200 bar",
+        "optionB": "220 bar",
+        "optionC": "250 bar",
+        "optionD": "300 bar",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The compression ratio in petrol engine is kept less than in Diesel engine because",
+        "optionA": "it makes petrol engines lighter",
+        "optionB": "higher or equivalent compression ratio in petrol engines is not possible due to pre-ignition",
+        "optionC": "less compression ratio gives better performance",
+        "optionD": "it is just customary to have less compression ratio in petrol engines",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The main function of the tread pattern on tyre is that",
+        "optionA": "the tread grooves pass air between the tyre and road surface, thereby preventing tyre from overheating",
+        "optionB": "the crests between the tread grooves absorb road noise",
+        "optionC": "in wet conditions, the tread grooves expel water that is drawn between the tyre and road surface",
+        "optionD": "the tread pattern protects the tyre's inner carcass from small stones and pieces of glass",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The tilting of the front wheels away from the vertical, when viewed from the front of the car, is called",
+        "optionA": "camber",
+        "optionB": "caster",
+        "optionC": "toe-in",
+        "optionD": "toe-out",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In a fuel injection system, the electronic control module (ECM) calculates the optimum fuel-injection volume for the engine condition based on the data received from the sensors, and injects this volume of fuel into the intake manifold at the optimum timing.",
+        "optionA": "Correct",
+        "optionB": "Incorrect",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The aluminium alloy is used in cylinder blocks because",
+        "optionA": "it is lighter and have good heat dissipation characteristics",
+        "optionB": "material cost is low",
+        "optionC": "it does not require any cylinder liners",
+        "optionD": "the piston is also made of aluminium alloy",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The operation of removing trapped air from the hydraulic braking system is known as",
+        "optionA": "trapping",
+        "optionB": "tapping",
+        "optionC": "bleeding",
+        "optionD": "cleaning",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The battery is an electrochemical device, which means battery",
+        "optionA": "makes chemicals by mechanical means",
+        "optionB": "uses chemical action to provide electricity",
+        "optionC": "has curved plates instead of flat plates",
+        "optionD": "does not use an electrolyte",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The difference between DOT 3 and DOT 4 brake fluids is",
+        "optionA": "DOT 4 fluid has a higher boiling point than DOT 3 fluid",
+        "optionB": "DOT 4 fluid has a lower boiling point than DOT 3 fluid",
+        "optionC": "DOT 3 and DOT 4 fluids have the same boiling point, but DOT 4 fluid has a longer service life",
+        "optionD": "DOT 4 fluid is more resistant to freezing than DOT 3 fluid",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The diagram which shows the correct crank positions corresponding to the opening and closing of the valves, is known as",
+        "optionA": "indicator diagram",
+        "optionB": "axial force diagram",
+        "optionC": "valve timing diagram",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If the air-fuel mixture ignites before the spark takes place at spark plug, the condition is called",
+        "optionA": "detonation",
+        "optionB": "ignition",
+        "optionC": "pre-ignition",
+        "optionD": "rumble",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If the level of tension in the belt is too high, it can result in a loss of power or in bending of the rotating shaft or crankshaft.",
+        "optionA": "Correct",
+        "optionB": "Incorrect",
+        "optionC": "Cannot say",
+        "optionD": "Tension in the belt can never be too high",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The co-efficient of rolling resistance for a truck weighing 63 500 N is 0.018. The rolling resistance to the truck is",
+        "optionA": "1.143 N",
+        "optionB": "11.43 N",
+        "optionC": "114.3 N",
+        "optionD": "1143 N",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The advantage of double-wishbone suspension design is that a large amount of freedom is available for setting geometry, and precise settings can be made for driving comfort and steerability",
+        "optionA": "Correct",
+        "optionB": "Incorrect",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "If the air-fuel mixture in a spark ignition engine is too rich, then air-fuel ratio is about",
+        "optionA": "17:1",
+        "optionB": "15:1",
+        "optionC": "13:1",
+        "optionD": "10:1",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The effect of having excess camber is",
+        "optionA": "excessive steering alignment torque",
+        "optionB": "hard steering",
+        "optionC": "too much traction",
+        "optionD": "uneven tyre wear",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In a ventilated disc brake,",
+        "optionA": "a duct directs air towards the caliper for cooling while the vehicle is moving",
+        "optionB": "caliper is covered with cooling fins",
+        "optionC": "disc contains many small holes for optimum cooling performance",
+        "optionD": "disc contains radial vanes between its rubbing surfaces for optimum cooling performance",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The firing order for an in-line four cylinder I.C. engine is",
+        "optionA": "1-2-3-4",
+        "optionB": "1-3-4-2",
+        "optionC": "1-2-4-3",
+        "optionD": "1-3-2-4",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In automobiles, G.V.W. refers to",
+        "optionA": "gross vehicle width",
+        "optionB": "gross vehicle weight",
+        "optionC": "gross vehicle wheel base",
+        "optionD": "gross vehicle wheel track",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The main function of intake manifold is that it",
+        "optionA": "promotes the mixture of air and fuel",
+        "optionB": "reduces intake noise",
+        "optionC": "cools the intake air to a suitable temperature",
+        "optionD": "distributes intake air equally to the cylinders",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The vehicle ride will be comfortable if",
+        "optionA": "unsprung mass is kept minimum",
+        "optionB": "sprang mass is kept minimum",
+        "optionC": "vehicle mass is kept minimum",
+        "optionD": "all of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The flywheel and the pressure plate bind the clutch disc between them so that the engine and the transmission can be engaged.",
+        "optionA": "Yes",
+        "optionB": "No",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In a spark plug, when the temperature of the central electrode exceeds a certain temperature, any carbon that has adhered will be burnt off, and the temperature at which this burning off carbon starts is referred to as the self cleaning temperature.",
+        "optionA": "Correct",
+        "optionB": "Incorrect",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The oil pump is driven by the",
+        "optionA": "camshaft",
+        "optionB": "alternator shaft",
+        "optionC": "crankshaft via drive belt",
+        "optionD": "crankshaft directly",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In radial tyres",
+        "optionA": "one ply layer runs diagonally one way and another layer runs diagonally the other way",
+        "optionB": "all plies run parallel to one another and vertical to tyre bead",
+        "optionC": "inner tubes are always used",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A traction control system (TCS) in automobiles controls the",
+        "optionA": "vibrations on the steering wheel",
+        "optionB": "engine power during acceleration",
+        "optionC": "torque that is transmitted by the tyres to the road surface",
+        "optionD": "stopping distance in case of emergency",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The torque available at the contact between driving wheels and road is known as",
+        "optionA": "brake effort",
+        "optionB": "tractive effort",
+        "optionC": "clutch effort",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In a unit type body (frameless body) design, the sheet metal parts are welded together, forming a frame work to which outer skin is attached.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "It is necessary to maintain the valve clearances as they",
+        "optionA": "reduce the resistance to sliding that occurs between the cam and the tappet",
+        "optionB": "allow for lengthening of the valves owing to the heat of combustion",
+        "optionC": "increase the speed at which the valves move up and down",
+        "optionD": "make the crankshaft turn smoothly",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What type of bearing is used for main bearings and connecting rod bearings ?",
+        "optionA": "Ballbearings",
+        "optionB": "Plain bearings",
+        "optionC": "Needle roller bearing",
+        "optionD": "Taper roller bearing",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A clutch is usually designed to transmit maximum torque which is",
+        "optionA": "equal to the maximum engine torque",
+        "optionB": "80 per cent of the maximum engine torque",
+        "optionC": "150 per cent of the maximum engine torque",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The function of an alternator in an automobile is to",
+        "optionA": "supply electric power",
+        "optionB": "convert mechanical energy into electrical energy",
+        "optionC": "continually recharge the battery",
+        "optionD": "partly convert engine power into electric power",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If the engine coolant leaks into the engine oil, then engine oil",
+        "optionA": "appears milky",
+        "optionB": "becomes foamy",
+        "optionC": "turns black",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following symptom is caused as a result of brake disc run out ?",
+        "optionA": "Ineffectiveness of the brakes",
+        "optionB": "Judder during braking",
+        "optionC": "Localized wearing of the brake pads",
+        "optionD": "Rapid wearing of the brake pads",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The motion of the cam is transferred to the valves through",
+        "optionA": "pistons",
+        "optionB": "rocker arms",
+        "optionC": "camshaft pulley",
+        "optionD": "valve stems",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A baffle plate is fitted inside the oil pan to prevent the oil from splashing when it is subjected to vibration and other movement during vehicle operation.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "There's no baffle plate",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The portion of a crankshaft which rests on cylinder block is called main journal.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "No part of crankshaft rests on cylinder block",
+        "Correct": "Correct answer is A"
+    }
+]

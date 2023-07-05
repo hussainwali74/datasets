@@ -1,0 +1,2258 @@
+[
+    {
+        "Question": "The names of the scientists, Newlands, Mendeleev, and Meyer are associated with the development of",
+        "optionA": "atomic structure",
+        "optionB": "metallurgy",
+        "optionC": "periodic table of contents",
+        "optionD": "discovery of elements",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The molecular formula of phosphorous is",
+        "optionA": "P1",
+        "optionB": "P2",
+        "optionC": "P3",
+        "optionD": "P4",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The inert gases are ____ in water",
+        "optionA": "sparingly soluble",
+        "optionB": "insoluble",
+        "optionC": "soluble",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The method of concentrating the ore which makes use of the difference in density between ore and impurities is called",
+        "optionA": "liquation",
+        "optionB": "leaching",
+        "optionC": "levigation",
+        "optionD": "magnetic separation",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The metal that is usually extracted from sea water is",
+        "optionA": "Ca",
+        "optionB": "Na",
+        "optionC": "K",
+        "optionD": "Mg",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The formula C6H5-CO-CH3 represents",
+        "optionA": "Acetone",
+        "optionB": "Acetic acid",
+        "optionC": "Acetophenone",
+        "optionD": "Phenyl acetate",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The maximum number of covalent formed by nitrogen is",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "4",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The mass number of an atom is equal to",
+        "optionA": "the number of protons",
+        "optionB": "the number of protons and electrons",
+        "optionC": "the number of nucleons",
+        "optionD": "the number of neutrons",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Equal masses of oxygen, hydrogen and methane are kept under identical conditions. The ratio of the volumes of gases will be",
+        "optionA": "2 : 16 : 2",
+        "optionB": "2 : 16 : 1",
+        "optionC": "1 : 16 : 2",
+        "optionD": "1 : 1 : 1",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The number of waves made by an electron moving in an orbit having maximum magnetic quantum number +3 is",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "2",
+        "optionD": "zero",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The half life period of an isotope is 2 hours. After 6 hours what fraction of the initial quantity of the isotope will be left behind?",
+        "optionA": "1/6",
+        "optionB": "1/3",
+        "optionC": "1/8",
+        "optionD": "1/4",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The isomerism which exists between CH3CHCI2 and CH2CI. CH2CI is",
+        "optionA": "chain isomerism",
+        "optionB": "functional group isomerism",
+        "optionC": "positional isomerism",
+        "optionD": "metamerism",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The human body is made up of several chemical elements; the element present in the highest proportion (65%) in the body is",
+        "optionA": "carbon",
+        "optionB": "hydrogen",
+        "optionC": "oxygen",
+        "optionD": "nitrogen",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The hottest part of the gas flame is known as",
+        "optionA": "luminous zone",
+        "optionB": "dark zone",
+        "optionC": "blue zone",
+        "optionD": "non-luminous zone",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The number of electrons presents in H+ is",
+        "optionA": "zero",
+        "optionB": "one",
+        "optionC": "two",
+        "optionD": "three",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The organic reaction represented by equation CH3 - CH = O + H2NOH gives CH3 - CH - NH + H2O is an example of",
+        "optionA": "an addition reaction",
+        "optionB": "a condensation reaction",
+        "optionC": "an oxidation reaction",
+        "optionD": "an elimination reaction",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The most important ore of aluminium is",
+        "optionA": "bauxite",
+        "optionB": "magnetite",
+        "optionC": "haematite",
+        "optionD": "monazite",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The hardest form of carbon is",
+        "optionA": "coke",
+        "optionB": "graphite",
+        "optionC": "diamond",
+        "optionD": "charcoal",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The main active constituent of tea and coffee is",
+        "optionA": "nicotine",
+        "optionB": "chlorophyll",
+        "optionC": "caffeine",
+        "optionD": "aspirin",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The number of g-molecule of oxygen in 6.02 x 1024CO molecules is",
+        "optionA": "1 gram of molecule",
+        "optionB": "0.5 gram of molecule",
+        "optionC": "5 gram of molecule",
+        "optionD": "10 gram of molecule",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The metal that does not give H2 on treatment with dilute HCL is",
+        "optionA": "Zn",
+        "optionB": "Fe",
+        "optionC": "Ag",
+        "optionD": "Ca",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The mineral containing both magnesium and calcium is",
+        "optionA": "magnesite",
+        "optionB": "calcite",
+        "optionC": "carnallite",
+        "optionD": "dolomite",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The main chemical constituent of clay is",
+        "optionA": "silicon oxide",
+        "optionB": "aluminium borosilicate",
+        "optionC": "zeolites",
+        "optionD": "aluminium silicate",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The major constituent of air is",
+        "optionA": "nitrogen",
+        "optionB": "carbon dioxide",
+        "optionC": "oxygen",
+        "optionD": "hydrogen",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The ionisation energy of hydrogen atom in the ground state is x KJ. The energy required for an electron to jump from 2nd orbit to 3rd orbit is",
+        "optionA": "5x/36",
+        "optionB": "5x",
+        "optionC": "7.2 x",
+        "optionD": "x/6",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The iron ore magnetite consists of",
+        "optionA": "Fe2O3",
+        "optionB": "Fe3OH4",
+        "optionC": "FeCO3",
+        "optionD": "3Fe2O3 .. 3H2O",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The high reactivity of fluorine is due to",
+        "optionA": "its high electro negativity",
+        "optionB": "small size of fluorine atom",
+        "optionC": "availability of d-orbitals",
+        "optionD": "strong F - F bond",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The main chemical constituent of the oil of cardamom which is responsible for flavour of this oil is",
+        "optionA": "cineole",
+        "optionB": "engenol",
+        "optionC": "geraniol",
+        "optionD": "limonene",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Zone refining is used for the purification of",
+        "optionA": "Au",
+        "optionB": "Ge",
+        "optionC": "Ag",
+        "optionD": "Cu",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The gas used for artificial ripening of green fruit is",
+        "optionA": "ethylene",
+        "optionB": "ethane",
+        "optionC": "carbon dioxide",
+        "optionD": "acetylene",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The following are the half lives of four active isotopes. Which one of the following is the most dangerous to handle?",
+        "optionA": "3 billion years",
+        "optionB": "100 years",
+        "optionC": "0.01 minute",
+        "optionD": "13 days",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The method that cannot be used for removing permanent hardness of water is",
+        "optionA": "adding sodium carbonate",
+        "optionB": "distillation",
+        "optionC": "adding caustic soda",
+        "optionD": "boiling",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The most electropositive elements among the following is",
+        "optionA": "Na",
+        "optionB": "Ca",
+        "optionC": "K",
+        "optionD": "Cs",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The hydronium ion is",
+        "optionA": "H+",
+        "optionB": "HO -",
+        "optionC": "H2+",
+        "optionD": "H3O+",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The first metal used by man was",
+        "optionA": "iron",
+        "optionB": "copper",
+        "optionC": "gold",
+        "optionD": "bronze",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The graphite rods in the nuclear reactor",
+        "optionA": "react with U to release energy",
+        "optionB": "produce neutrons",
+        "optionC": "undergo combustion which triggers the nuclear fission",
+        "optionD": "convert fast moving neutrons into thermal neutrons",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The gas used in the manufacture of vanaspati from vegetable oil is",
+        "optionA": "hydrogen",
+        "optionB": "oxygen",
+        "optionC": "nitrogen",
+        "optionD": "carbon dioxide",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The inexpensive and commonly used variety of glass is called soda glass. It is called so because",
+        "optionA": "was used initially for making bottles of soda(carbonated drink)",
+        "optionB": "is made using soda(sodium carbonate)",
+        "optionC": "was initially used for storing sodium carbonate",
+        "optionD": "is made using soda lime",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The mass number of a nucleus is",
+        "optionA": "always less than its atomic number",
+        "optionB": "the sum of the number of protons and neutrons present in the nucleus",
+        "optionC": "always more than the atomic weight",
+        "optionD": "a fraction",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The material which can be deformed permanently by heat and pressure is called a",
+        "optionA": "thermoplastic",
+        "optionB": "thermoset",
+        "optionC": "chemical compound",
+        "optionD": "polymer",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The items amenable to detection by soft x-rays are",
+        "optionA": "contrabands",
+        "optionB": "lead in bullets",
+        "optionC": "narcotics",
+        "optionD": "genuine coins from counterfeit coins",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The mass of one Avogadro number of helium atom is",
+        "optionA": "1.00 gram",
+        "optionB": "4.00 gram",
+        "optionC": "8.00 gram",
+        "optionD": "4 x 6.02 x 1023 gram",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The number of waves in n x 10th Bohr's orbit are",
+        "optionA": "n2",
+        "optionB": "n",
+        "optionC": "n-2",
+        "optionD": "n3",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The oil used in the froth floatation process is",
+        "optionA": "coconut oil",
+        "optionB": "olive oil",
+        "optionC": "kerosene oil",
+        "optionD": "pine oil",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The most malleable metal is",
+        "optionA": "platinum",
+        "optionB": "silver",
+        "optionC": "iron",
+        "optionD": "gold",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The luster of a metal is due to",
+        "optionA": "its high density",
+        "optionB": "its high polishing",
+        "optionC": "its chemical inertness",
+        "optionD": "presence of free electrons",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The monomer of polythene is",
+        "optionA": "vinyl chloride",
+        "optionB": "ethylene",
+        "optionC": "ethyl alcohol",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The main use of salt in the diet is to",
+        "optionA": "make the taste of food better",
+        "optionB": "produce in small amounts the hydrochloric acid required for the digestion of food",
+        "optionC": "ease the process of cooking",
+        "optionD": "increase the solubility of food particles in water",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "How many moles of CO2 contains 16g of Oxygen?",
+        "optionA": "0.5 mole",
+        "optionB": "0.2 mole",
+        "optionC": "0.4 mole",
+        "optionD": "0.25 mole",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The heat energy produced when the human body metabolises 1 gram of fat is",
+        "optionA": "30 KJ",
+        "optionB": "1 KJ",
+        "optionC": "39 KJ",
+        "optionD": "29 KJ",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The inherited traits of an organism are controlled by",
+        "optionA": "RNA molecules",
+        "optionB": "nucleotides",
+        "optionC": "DNA molecules",
+        "optionD": "enzymes",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The Latin word formica means ant. The name formic acid is derived from this Latin word because",
+        "optionA": "this acid, in ancient times, was used to eliminate ant-hills",
+        "optionB": "this corrosive acid is secreted by ants to drive away their enemies",
+        "optionC": "this acid was first obtained by the distillation of ants",
+        "optionD": "ants are attracted by the odour of this acid",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The most abundant rare gas in the atmosphere is",
+        "optionA": "He",
+        "optionB": "Ne",
+        "optionC": "Ar",
+        "optionD": "Xe",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The metal that is used as a catalyst in the hydrogenation of oils is",
+        "optionA": "Ni",
+        "optionB": "Pb",
+        "optionC": "Cu",
+        "optionD": "Pt",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The mass of P4O10 that will be obtained from the reaction of 1.33 gram of P4 and 5.07 of oxygen is",
+        "optionA": "2.05 gram",
+        "optionB": "3.05 gram",
+        "optionC": "4.05 gram",
+        "optionD": "5.05 gram",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The nuclear particles which are assumed to hold the nucleons together are",
+        "optionA": "electrons",
+        "optionB": "positrons",
+        "optionC": "neutrons",
+        "optionD": "mesons",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The heat required to raise the temperature of body by 1 K is called",
+        "optionA": "specific heat",
+        "optionB": "thermal capacity",
+        "optionC": "water equivalent",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The nucleus of a hydrogen atom consists of",
+        "optionA": "1 proton only",
+        "optionB": "1 proton + 2 neutron",
+        "optionC": "1 proton + 2 neutron",
+        "optionD": "1 electron only",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The most commonly used bleaching agent is",
+        "optionA": "alcohol",
+        "optionB": "carbon dioxide",
+        "optionC": "chlorine",
+        "optionD": "sodium chlorine",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The gas present in the stratosphere which filters out some of the sun's ultraviolet light and provides an effective shield against radiation damage to living things is",
+        "optionA": "helium",
+        "optionB": "ozone",
+        "optionC": "oxygen",
+        "optionD": "methane",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Oganesson?",
+        "optionA": "115",
+        "optionB": "118",
+        "optionC": "123",
+        "optionD": "139",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Tennessine?",
+        "optionA": "117",
+        "optionB": "118",
+        "optionC": "119",
+        "optionD": "120",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Livermorium?",
+        "optionA": "110",
+        "optionB": "114",
+        "optionC": "116",
+        "optionD": "118",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Flerovium?",
+        "optionA": "112",
+        "optionB": "114",
+        "optionC": "123",
+        "optionD": "129",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Nihonium?",
+        "optionA": "3",
+        "optionB": "113",
+        "optionC": "130",
+        "optionD": "30",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Copernicium?",
+        "optionA": "12",
+        "optionB": "14",
+        "optionC": "112",
+        "optionD": "114",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Roentgenium?",
+        "optionA": "1",
+        "optionB": "11",
+        "optionC": "111",
+        "optionD": "1111",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Darmstadtium?",
+        "optionA": "110",
+        "optionB": "111",
+        "optionC": "112",
+        "optionD": "113",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Meitnerium?",
+        "optionA": "150",
+        "optionB": "109",
+        "optionC": "77",
+        "optionD": "102",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Hassium?",
+        "optionA": "108",
+        "optionB": "123",
+        "optionC": "109",
+        "optionD": "110",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Bohrium?",
+        "optionA": "132",
+        "optionB": "144",
+        "optionC": "100",
+        "optionD": "107",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Seaborgium?",
+        "optionA": "100",
+        "optionB": "101",
+        "optionC": "108",
+        "optionD": "106",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Rutherfordium?",
+        "optionA": "104",
+        "optionB": "107",
+        "optionC": "110",
+        "optionD": "120",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Lawrencium?",
+        "optionA": "100",
+        "optionB": "103",
+        "optionC": "109",
+        "optionD": "112",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Nobelium?",
+        "optionA": "45",
+        "optionB": "77",
+        "optionC": "102",
+        "optionD": "117",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Mendelevium?",
+        "optionA": "118",
+        "optionB": "111",
+        "optionC": "101",
+        "optionD": "124",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Fermium?",
+        "optionA": "100",
+        "optionB": "200",
+        "optionC": "300",
+        "optionD": "400",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Einsteinium?",
+        "optionA": "99",
+        "optionB": "55",
+        "optionC": "44",
+        "optionD": "111",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Californium?",
+        "optionA": "97",
+        "optionB": "98",
+        "optionC": "99",
+        "optionD": "100",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is the atomic number of Berkelium?",
+        "optionA": "97",
+        "optionB": "150",
+        "optionC": "179",
+        "optionD": "214",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Curium?",
+        "optionA": "1",
+        "optionB": "100.5",
+        "optionC": "44",
+        "optionD": "96",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Plutonium?",
+        "optionA": "94",
+        "optionB": "95",
+        "optionC": "96",
+        "optionD": "97",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Neptunium?",
+        "optionA": "93",
+        "optionB": "65",
+        "optionC": "34",
+        "optionD": "66",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Uranium?",
+        "optionA": "96",
+        "optionB": "100",
+        "optionC": "89",
+        "optionD": "92",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Protactinium?",
+        "optionA": "92",
+        "optionB": "91",
+        "optionC": "40",
+        "optionD": "56",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Thorium?",
+        "optionA": "13",
+        "optionB": "66",
+        "optionC": "144",
+        "optionD": "90",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Actinium?",
+        "optionA": "87",
+        "optionB": "88",
+        "optionC": "89",
+        "optionD": "90",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Radium?",
+        "optionA": "48",
+        "optionB": "88",
+        "optionC": "68",
+        "optionD": "98",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Francium?",
+        "optionA": "56",
+        "optionB": "203",
+        "optionC": "101",
+        "optionD": "87",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Radon?",
+        "optionA": "86",
+        "optionB": "203",
+        "optionC": "101",
+        "optionD": "17",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Polonium?",
+        "optionA": "7.7",
+        "optionB": "106",
+        "optionC": "16",
+        "optionD": "84",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Bismuth?",
+        "optionA": "14",
+        "optionB": "34",
+        "optionC": "83",
+        "optionD": "84",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Lead?",
+        "optionA": "82",
+        "optionB": "90",
+        "optionC": "102",
+        "optionD": "123",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Thallium?",
+        "optionA": "56",
+        "optionB": "77",
+        "optionC": "81",
+        "optionD": "95",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Mercury?",
+        "optionA": "77",
+        "optionB": "80",
+        "optionC": "85",
+        "optionD": "90",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Gold?",
+        "optionA": "79",
+        "optionB": "80",
+        "optionC": "81",
+        "optionD": "82",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Platinum?",
+        "optionA": "100",
+        "optionB": "50",
+        "optionC": "78",
+        "optionD": "88",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Iridium?",
+        "optionA": "300",
+        "optionB": "77",
+        "optionC": "143",
+        "optionD": "81",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Osmium?",
+        "optionA": "110",
+        "optionB": "112",
+        "optionC": "76",
+        "optionD": "77",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Tungsten?",
+        "optionA": "74",
+        "optionB": "75",
+        "optionC": "76",
+        "optionD": "77",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Tantalum?",
+        "optionA": "67.8",
+        "optionB": "73",
+        "optionC": "55.5",
+        "optionD": "96",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Hafnium?",
+        "optionA": "99",
+        "optionB": "72",
+        "optionC": "33",
+        "optionD": "77",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Lutetium?",
+        "optionA": "87",
+        "optionB": "47",
+        "optionC": "71",
+        "optionD": "56",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Ytterbium?",
+        "optionA": "65",
+        "optionB": "98",
+        "optionC": "46",
+        "optionD": "70",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Thulium?",
+        "optionA": "69",
+        "optionB": "83",
+        "optionC": "55",
+        "optionD": "88",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Erbium?",
+        "optionA": "55",
+        "optionB": "64",
+        "optionC": "68",
+        "optionD": "86",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Holmium?",
+        "optionA": "6",
+        "optionB": "7",
+        "optionC": "76",
+        "optionD": "67",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Dysprosium?",
+        "optionA": "6",
+        "optionB": "66",
+        "optionC": "666",
+        "optionD": "6666",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Gadolinium?",
+        "optionA": "3",
+        "optionB": "64",
+        "optionC": "8",
+        "optionD": "222",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Europium?",
+        "optionA": "63",
+        "optionB": "11",
+        "optionC": "500",
+        "optionD": "125",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Samarium?",
+        "optionA": "390",
+        "optionB": "62",
+        "optionC": "101",
+        "optionD": "500",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Promethium?",
+        "optionA": "43",
+        "optionB": "55",
+        "optionC": "57",
+        "optionD": "61",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Neodymium?",
+        "optionA": "30",
+        "optionB": "60",
+        "optionC": "90",
+        "optionD": "120",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Praseodymium?",
+        "optionA": "200",
+        "optionB": "150",
+        "optionC": "59",
+        "optionD": "97",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Cerium?",
+        "optionA": "78",
+        "optionB": "100",
+        "optionC": "58",
+        "optionD": "88",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Lanthanum?",
+        "optionA": "1",
+        "optionB": "57",
+        "optionC": "45.8",
+        "optionD": "99.9",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Barium?",
+        "optionA": "108",
+        "optionB": "70",
+        "optionC": "4",
+        "optionD": "56",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Xenon?",
+        "optionA": "47",
+        "optionB": "49",
+        "optionC": "53",
+        "optionD": "54",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Iodine?",
+        "optionA": "45",
+        "optionB": "53",
+        "optionC": "67",
+        "optionD": "89",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Tellurium?",
+        "optionA": "52",
+        "optionB": "53",
+        "optionC": "54",
+        "optionD": "55",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Antimony?",
+        "optionA": "17.5",
+        "optionB": "51",
+        "optionC": "55",
+        "optionD": "56",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Tin?",
+        "optionA": "30",
+        "optionB": "40",
+        "optionC": "50",
+        "optionD": "80",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Indium?",
+        "optionA": "23",
+        "optionB": "49",
+        "optionC": "56",
+        "optionD": "73",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Cadmium?",
+        "optionA": "18",
+        "optionB": "28",
+        "optionC": "38",
+        "optionD": "48",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Silver?",
+        "optionA": "47",
+        "optionB": "57",
+        "optionC": "67",
+        "optionD": "77",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Palladium?",
+        "optionA": "26",
+        "optionB": "26",
+        "optionC": "46",
+        "optionD": "56",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Ruthenium?",
+        "optionA": "16.7",
+        "optionB": "28",
+        "optionC": "44",
+        "optionD": "44.5",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Technetium?",
+        "optionA": "11",
+        "optionB": "43",
+        "optionC": "87",
+        "optionD": "120",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Molybdenum?",
+        "optionA": "17",
+        "optionB": "22",
+        "optionC": "30",
+        "optionD": "42",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Niobium?",
+        "optionA": "18",
+        "optionB": "23",
+        "optionC": "41",
+        "optionD": "64",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Zirconium?",
+        "optionA": "37",
+        "optionB": "38",
+        "optionC": "39",
+        "optionD": "40",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Yttrium?",
+        "optionA": "23",
+        "optionB": "29",
+        "optionC": "33",
+        "optionD": "39",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Strontium?",
+        "optionA": "38",
+        "optionB": "39",
+        "optionC": "40",
+        "optionD": "41",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Rubidium?",
+        "optionA": "11.7",
+        "optionB": "14",
+        "optionC": "37",
+        "optionD": "45.5",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Krypton?",
+        "optionA": "77",
+        "optionB": "89",
+        "optionC": "36",
+        "optionD": "4",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Selenium?",
+        "optionA": "12",
+        "optionB": "16",
+        "optionC": "24",
+        "optionD": "34",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Arsenic?",
+        "optionA": "23",
+        "optionB": "33",
+        "optionC": "73",
+        "optionD": "93",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Germanium?",
+        "optionA": "22",
+        "optionB": "32",
+        "optionC": "42",
+        "optionD": "62",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Gallium?",
+        "optionA": "67",
+        "optionB": "4",
+        "optionC": "31",
+        "optionD": "56",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Zinc?",
+        "optionA": "10",
+        "optionB": "20",
+        "optionC": "30",
+        "optionD": "40",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Copper?",
+        "optionA": "11",
+        "optionB": "29",
+        "optionC": "33",
+        "optionD": "50",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Nickel?",
+        "optionA": "28",
+        "optionB": "38",
+        "optionC": "48",
+        "optionD": "58",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Cobalt?",
+        "optionA": "14",
+        "optionB": "19",
+        "optionC": "21",
+        "optionD": "27",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Iron?",
+        "optionA": "18",
+        "optionB": "26",
+        "optionC": "13",
+        "optionD": "41",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Chromium?",
+        "optionA": "3.5",
+        "optionB": "19",
+        "optionC": "24",
+        "optionD": "31",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Vanadium?",
+        "optionA": "36",
+        "optionB": "111",
+        "optionC": "90",
+        "optionD": "23",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Titanium?",
+        "optionA": "22",
+        "optionB": "23",
+        "optionC": "24",
+        "optionD": "25",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Scandium?",
+        "optionA": "14",
+        "optionB": "21",
+        "optionC": "47",
+        "optionD": "66",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Calcium?",
+        "optionA": "17",
+        "optionB": "18",
+        "optionC": "19",
+        "optionD": "20",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Potassium?",
+        "optionA": "42",
+        "optionB": "19",
+        "optionC": "18",
+        "optionD": "89",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Argon?",
+        "optionA": "8",
+        "optionB": "65",
+        "optionC": "83",
+        "optionD": "18",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Chlorine?",
+        "optionA": "17",
+        "optionB": "27",
+        "optionC": "37",
+        "optionD": "47",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Sulfur?",
+        "optionA": "11",
+        "optionB": "16",
+        "optionC": "49",
+        "optionD": "60",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Silicon?",
+        "optionA": "1",
+        "optionB": "44",
+        "optionC": "83",
+        "optionD": "14",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Aluminum?",
+        "optionA": "33",
+        "optionB": "4",
+        "optionC": "13",
+        "optionD": "18",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Magnesium?",
+        "optionA": "5",
+        "optionB": "35",
+        "optionC": "76",
+        "optionD": "12",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Sodium?",
+        "optionA": "31",
+        "optionB": "11",
+        "optionC": "51",
+        "optionD": "91",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Neon?",
+        "optionA": "10",
+        "optionB": "20",
+        "optionC": "30",
+        "optionD": "40",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the atomic number of Fluorine?",
+        "optionA": "32",
+        "optionB": "101",
+        "optionC": "9",
+        "optionD": "27",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Oxygen?",
+        "optionA": "2",
+        "optionB": "8",
+        "optionC": "16",
+        "optionD": "24",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Nitrogen?",
+        "optionA": "3",
+        "optionB": "14",
+        "optionC": "7",
+        "optionD": "61",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Carbon?",
+        "optionA": "11",
+        "optionB": "6",
+        "optionC": "32",
+        "optionD": "44",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Beryllium?",
+        "optionA": "13",
+        "optionB": "8",
+        "optionC": "4",
+        "optionD": "77",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the atomic number of Lithium?",
+        "optionA": "48",
+        "optionB": "17",
+        "optionC": "19",
+        "optionD": "3",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the atomic number of Helium?",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "9",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the atomic number of Hydrogen?",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "6",
+        "optionD": "8",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Oganesson?",
+        "optionA": "Og",
+        "optionB": "Oa",
+        "optionC": "On",
+        "optionD": "Os",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Tennessine?",
+        "optionA": "Te",
+        "optionB": "Tn",
+        "optionC": "Ts",
+        "optionD": "Gw",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Livermorium?",
+        "optionA": "Li",
+        "optionB": "Lv",
+        "optionC": "Lm",
+        "optionD": "Lo",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Moscovium?",
+        "optionA": "Mo",
+        "optionB": "Ms",
+        "optionC": "Mc",
+        "optionD": "Mv",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Flerovium?",
+        "optionA": "Fl",
+        "optionB": "Fv",
+        "optionC": "Fr",
+        "optionD": "Fi",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Copernicium?",
+        "optionA": "Co",
+        "optionB": "Cp",
+        "optionC": "Cn",
+        "optionD": "Cm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Roentgenium?",
+        "optionA": "Ro",
+        "optionB": "Rt",
+        "optionC": "Rg",
+        "optionD": "Rm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Darmstadtium?",
+        "optionA": "Da",
+        "optionB": "Dm",
+        "optionC": "Ds",
+        "optionD": "Dt",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Meitnerium?",
+        "optionA": "Mt",
+        "optionB": "Me",
+        "optionC": "Mn",
+        "optionD": "Mm",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Hassium?",
+        "optionA": "H",
+        "optionB": "Ha",
+        "optionC": "Hs",
+        "optionD": "Hm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Bohrium?",
+        "optionA": "Bo",
+        "optionB": "Bh",
+        "optionC": "Br",
+        "optionD": "Bm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Seaborgium?",
+        "optionA": "Se",
+        "optionB": "Sa",
+        "optionC": "Sg",
+        "optionD": "Sm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Dubnium?",
+        "optionA": "D",
+        "optionB": "Du",
+        "optionC": "Db",
+        "optionD": "Dn",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Rutherfordium?",
+        "optionA": "Ru",
+        "optionB": "Rf",
+        "optionC": "Rd",
+        "optionD": "Rm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Nobelium?",
+        "optionA": "N",
+        "optionB": "No",
+        "optionC": "Nb",
+        "optionD": "Ne",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Mendelevium?",
+        "optionA": "Me",
+        "optionB": "Md",
+        "optionC": "Mv",
+        "optionD": "Ml",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Fermium?",
+        "optionA": "Fe",
+        "optionB": "Fr",
+        "optionC": "Fm",
+        "optionD": "Ty",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Einsteinium?",
+        "optionA": "E",
+        "optionB": "Ei",
+        "optionC": "En",
+        "optionD": "Es",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Californium?",
+        "optionA": "Ca",
+        "optionB": "Cl",
+        "optionC": "Cf",
+        "optionD": "Cm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Berkelium?",
+        "optionA": "Be",
+        "optionB": "Br",
+        "optionC": "Bk",
+        "optionD": "Bl",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Curium?",
+        "optionA": "Cu",
+        "optionB": "Cr",
+        "optionC": "Cm",
+        "optionD": "Ci",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Americium?",
+        "optionA": "Am",
+        "optionB": "Ae",
+        "optionC": "Ar",
+        "optionD": "Ac",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Plutonium?",
+        "optionA": "Pl",
+        "optionB": "Pu",
+        "optionC": "Pt",
+        "optionD": "Fa",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Uranium?",
+        "optionA": "U",
+        "optionB": "Ur",
+        "optionC": "Ua",
+        "optionD": "Um",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Protactinium?",
+        "optionA": "Pr",
+        "optionB": "Pt",
+        "optionC": "Pa",
+        "optionD": "Pm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Thorium?",
+        "optionA": "Th",
+        "optionB": "To",
+        "optionC": "Tr",
+        "optionD": "Tm",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Actinium?",
+        "optionA": "A",
+        "optionB": "Ac",
+        "optionC": "At",
+        "optionD": "Am",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Radium?",
+        "optionA": "R",
+        "optionB": "Rd",
+        "optionC": "Rm",
+        "optionD": "Ra",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Francium?",
+        "optionA": "Fr",
+        "optionB": "Fc",
+        "optionC": "Fm",
+        "optionD": "Gt",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Radon?",
+        "optionA": "R",
+        "optionB": "Ra",
+        "optionC": "Rd",
+        "optionD": "Rn",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Astatine?",
+        "optionA": "A",
+        "optionB": "As",
+        "optionC": "At",
+        "optionD": "Ae",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Polonium?",
+        "optionA": "Po",
+        "optionB": "Pl",
+        "optionC": "Pm",
+        "optionD": "De",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Lead?",
+        "optionA": "L",
+        "optionB": "Le",
+        "optionC": "Ld",
+        "optionD": "Pb",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Thallium?",
+        "optionA": "T",
+        "optionB": "Th",
+        "optionC": "Tl",
+        "optionD": "Tu",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Mercury?",
+        "optionA": "M",
+        "optionB": "Me",
+        "optionC": "My",
+        "optionD": "Hg",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Gold?",
+        "optionA": "G",
+        "optionB": "Go",
+        "optionC": "Au",
+        "optionD": "Gl",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Platinum?",
+        "optionA": "P",
+        "optionB": "Pl",
+        "optionC": "Pa",
+        "optionD": "Pt",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Iridium?",
+        "optionA": "I",
+        "optionB": "Ir",
+        "optionC": "Id",
+        "optionD": "Im",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Osmium?",
+        "optionA": "O",
+        "optionB": "Os",
+        "optionC": "Om",
+        "optionD": "J",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Rhenium?",
+        "optionA": "R",
+        "optionB": "Rh",
+        "optionC": "Re",
+        "optionD": "Rm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Tungsten?",
+        "optionA": "T",
+        "optionB": "Tu",
+        "optionC": "Tg",
+        "optionD": "W",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Hafnium?",
+        "optionA": "H",
+        "optionB": "Ha",
+        "optionC": "Hf",
+        "optionD": "Hn",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Lutetium?",
+        "optionA": "L",
+        "optionB": "Lu",
+        "optionC": "Lt",
+        "optionD": "Lm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Ytterbium?",
+        "optionA": "Y",
+        "optionB": "Yt",
+        "optionC": "Yb",
+        "optionD": "Ym",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Thulium?",
+        "optionA": "T",
+        "optionB": "Th",
+        "optionC": "Tu",
+        "optionD": "Tm",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Erbium?",
+        "optionA": "E",
+        "optionB": "Er",
+        "optionC": "Eb",
+        "optionD": "Em",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Holmium?",
+        "optionA": "H",
+        "optionB": "Ho",
+        "optionC": "Hl",
+        "optionD": "Hm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Dysprosium?",
+        "optionA": "D",
+        "optionB": "Dy",
+        "optionC": "Dp",
+        "optionD": "Dm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Terbium?",
+        "optionA": "T",
+        "optionB": "Te",
+        "optionC": "Tb",
+        "optionD": "Tm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Gadolinium?",
+        "optionA": "G",
+        "optionB": "Ga",
+        "optionC": "Gd",
+        "optionD": "Gm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Samarium?",
+        "optionA": "Sa",
+        "optionB": "Sm",
+        "optionC": "S",
+        "optionD": "Sr",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Promethium?",
+        "optionA": "Pr",
+        "optionB": "Pro",
+        "optionC": "Pm",
+        "optionD": "P",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Praseodymium?",
+        "optionA": "P",
+        "optionB": "Ps",
+        "optionC": "Pd",
+        "optionD": "Pr",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Neodymium?",
+        "optionA": "N",
+        "optionB": "Ne",
+        "optionC": "Nd",
+        "optionD": "Nm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Cerium?",
+        "optionA": "Se",
+        "optionB": "Ce",
+        "optionC": "C",
+        "optionD": "Cm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Lanthanum?",
+        "optionA": "La",
+        "optionB": "L",
+        "optionC": "Lt",
+        "optionD": "Ln",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Barium?",
+        "optionA": "B",
+        "optionB": "Br",
+        "optionC": "Bi",
+        "optionD": "Ba",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Cesium?",
+        "optionA": "C",
+        "optionB": "Ce",
+        "optionC": "Cs",
+        "optionD": "Ci",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Xenon?",
+        "optionA": "X",
+        "optionB": "Xn",
+        "optionC": "Xe",
+        "optionD": "Xo",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Tellurium?",
+        "optionA": "T",
+        "optionB": "Te",
+        "optionC": "Tl",
+        "optionD": "Tr",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Antimony?",
+        "optionA": "A",
+        "optionB": "An",
+        "optionC": "Sb",
+        "optionD": "Ks",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Tin?",
+        "optionA": "T",
+        "optionB": "Ti",
+        "optionC": "Tn",
+        "optionD": "Sn",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Indium?",
+        "optionA": "I",
+        "optionB": "In",
+        "optionC": "Id",
+        "optionD": "Iu",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Cadmium?",
+        "optionA": "C",
+        "optionB": "Ca",
+        "optionC": "Cd",
+        "optionD": "Cm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Silver?",
+        "optionA": "S",
+        "optionB": "Si",
+        "optionC": "Sv",
+        "optionD": "Ag",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Palladium?",
+        "optionA": "P",
+        "optionB": "Pa",
+        "optionC": "Pl",
+        "optionD": "Pd",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Rhodium?",
+        "optionA": "R",
+        "optionB": "Rh",
+        "optionC": "Rd",
+        "optionD": "Rm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Ruthenium?",
+        "optionA": "R",
+        "optionB": "Ru",
+        "optionC": "Rt",
+        "optionD": "Rm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Molybdenum?",
+        "optionA": "M",
+        "optionB": "Mo",
+        "optionC": "Ml",
+        "optionD": "My",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Niobium?",
+        "optionA": "Nb",
+        "optionB": "Ni",
+        "optionC": "N",
+        "optionD": "No",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Zirconium?",
+        "optionA": "Z",
+        "optionB": "Zi",
+        "optionC": "Zc",
+        "optionD": "Zr",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Yttrium?",
+        "optionA": "Y",
+        "optionB": "Yt",
+        "optionC": "Yr",
+        "optionD": "Ym",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Strontium?",
+        "optionA": "Sr",
+        "optionB": "St",
+        "optionC": "S",
+        "optionD": "So",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Rubidium?",
+        "optionA": "R",
+        "optionB": "Ru",
+        "optionC": "Rb",
+        "optionD": "Rd",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Krypton?",
+        "optionA": "Kr",
+        "optionB": "K",
+        "optionC": "Ky",
+        "optionD": "Kn",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Bromine?",
+        "optionA": "Bo",
+        "optionB": "B",
+        "optionC": "Br",
+        "optionD": "Bm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Selenium?",
+        "optionA": "S",
+        "optionB": "Se",
+        "optionC": "Sl",
+        "optionD": "Sm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Germanium?",
+        "optionA": "G",
+        "optionB": "Ge",
+        "optionC": "Ga",
+        "optionD": "Gm",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Gallium?",
+        "optionA": "G",
+        "optionB": "Gl",
+        "optionC": "Gm",
+        "optionD": "Ga",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Zinc?",
+        "optionA": "Zn",
+        "optionB": "Z",
+        "optionC": "Zi",
+        "optionD": "Zc",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Copper?",
+        "optionA": "C",
+        "optionB": "Co",
+        "optionC": "Cp",
+        "optionD": "Cu",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Nickel?",
+        "optionA": "N",
+        "optionB": "Nk",
+        "optionC": "Ni",
+        "optionD": "Nl",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Cobalt?",
+        "optionA": "Co",
+        "optionB": "C",
+        "optionC": "Cb",
+        "optionD": "Ct",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Iron?",
+        "optionA": "I",
+        "optionB": "Ir",
+        "optionC": "Fe",
+        "optionD": "Na",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Manganese?",
+        "optionA": "Mn",
+        "optionB": "M",
+        "optionC": "Ma",
+        "optionD": "Mg",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Chromium?",
+        "optionA": "C",
+        "optionB": "Ch",
+        "optionC": "Cr",
+        "optionD": "Co",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Titanium?",
+        "optionA": "T",
+        "optionB": "Ta",
+        "optionC": "Ti",
+        "optionD": "Tm",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Scandium?",
+        "optionA": "Sc",
+        "optionB": "S",
+        "optionC": "Sa",
+        "optionD": "Sm",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Calcium?",
+        "optionA": "C",
+        "optionB": "Cl",
+        "optionC": "Cm",
+        "optionD": "Ca",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Potassium?",
+        "optionA": "P",
+        "optionB": "Po",
+        "optionC": "K",
+        "optionD": "Pt",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Argon?",
+        "optionA": "Ar",
+        "optionB": "A",
+        "optionC": "Ag",
+        "optionD": "Ao",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Chlorine?",
+        "optionA": "C",
+        "optionB": "Ch",
+        "optionC": "Cl",
+        "optionD": "Co",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Sulfur?",
+        "optionA": "Su",
+        "optionB": "Sf",
+        "optionC": "Sr",
+        "optionD": "S",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Phosphorus?",
+        "optionA": "P",
+        "optionB": "Ph",
+        "optionC": "Po",
+        "optionD": "Pu",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Silicon?",
+        "optionA": "S",
+        "optionB": "Sc",
+        "optionC": "Si",
+        "optionD": "Sn",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Magnesium?",
+        "optionA": "Mg",
+        "optionB": "M",
+        "optionC": "Ma",
+        "optionD": "Mn",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Sodium?",
+        "optionA": "S",
+        "optionB": "So",
+        "optionC": "Na",
+        "optionD": "Sa",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Boron?",
+        "optionA": "Bo",
+        "optionB": "Bn",
+        "optionC": "Br",
+        "optionD": "B",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Beryllium?",
+        "optionA": "Be",
+        "optionB": "B",
+        "optionC": "Br",
+        "optionD": "Bm",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Nitrogen?",
+        "optionA": "Ni",
+        "optionB": "N",
+        "optionC": "Nn",
+        "optionD": "O",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the chemical symbol for Lithium?",
+        "optionA": "L",
+        "optionB": "Lm",
+        "optionC": "Li",
+        "optionD": "Lt",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Fluorine?",
+        "optionA": "Fl",
+        "optionB": "Fn",
+        "optionC": "Flo",
+        "optionD": "F",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Helium?",
+        "optionA": "He",
+        "optionB": "H",
+        "optionC": "Hm",
+        "optionD": "Hi",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the chemical symbol for Oxygen?",
+        "optionA": "O2",
+        "optionB": "Ox",
+        "optionC": "O",
+        "optionD": "Og",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is the chemical symbol for Neon?",
+        "optionA": "N",
+        "optionB": "Nn",
+        "optionC": "No",
+        "optionD": "Ne",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the chemical symbol for Hydrogen?",
+        "optionA": "Hy",
+        "optionB": "H",
+        "optionC": "Hg",
+        "optionD": "Hn",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The main buffer system of the human blood is",
+        "optionA": "H2CO3 - HCO3",
+        "optionB": "H2CO3 - CO32-",
+        "optionC": "CH3COOH - CH3COO-",
+        "optionD": "NH2CONH2 - NH2CONH+",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The law which states that the amount of gas dissolved in a liquid is proportional to its partial pressure is",
+        "optionA": "Dalton's law",
+        "optionB": "Gay Lussac's law",
+        "optionC": "Henry's law",
+        "optionD": "Raoult's law",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The oldest rocks in the earth's crust were once molten, and came from deep inside the earth. The molten rock, called magma, spewed out in volcanic eruptions during the earth's early life and solidified into hard rock's called",
+        "optionA": "granite",
+        "optionB": "basalt",
+        "optionC": "igneous rocks",
+        "optionD": "sedimentary rocks",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The molecules of which gas have the highest speed?",
+        "optionA": "H2 at -73oC",
+        "optionB": "CH4 at 300 K",
+        "optionC": "N2 at 1,027oC",
+        "optionD": "O2 at 0oC",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The metallurgical process in which a metal is obtained in a fused state is called",
+        "optionA": "smelting",
+        "optionB": "roasting",
+        "optionC": "calcinations",
+        "optionD": "froth floatation",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The number of d-electrons in Fe2+ (Z = 26) is not equal to that of",
+        "optionA": "p-electrons in Ne(Z = 10)",
+        "optionB": "s-electrons in Mg(Z = 12)",
+        "optionC": "d-electrons in Fe(Z = 26)",
+        "optionD": "p-electrons in CI(Z = 17)",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The metal used to recover copper from a solution of copper sulphate is",
+        "optionA": "Na",
+        "optionB": "Ag",
+        "optionC": "Hg",
+        "optionD": "Fe",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The number of moles of solute present in 1 kg of a solvent is called its",
+        "optionA": "molality",
+        "optionB": "molarity",
+        "optionC": "normality",
+        "optionD": "formality",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The nucleus of an atom consists of",
+        "optionA": "electrons and neutrons",
+        "optionB": "electrons and protons",
+        "optionC": "protons and neutrons",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Isotopes of an element contain",
+        "optionA": "the same number of protons but different number of neutrons",
+        "optionB": "the same number of neutrons but different number of protons",
+        "optionC": "equal number of protons and electrons",
+        "optionD": "equal number of nucleons",
+        "Correct": "Correct answer is A"
+    }
+]

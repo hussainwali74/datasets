@@ -1,0 +1,362 @@
+[
+    {
+        "Question": "The minority carrier life time and diffusion constant in a semiconductor material are respectively 100 microsecond and 100 cm2/sec. The diffusion length is",
+        "optionA": "0.1 cm",
+        "optionB": "0.01 cm",
+        "optionC": "0.0141 cm",
+        "optionD": "1 cm",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The normal operation of JFET is",
+        "optionA": "constant voltage region",
+        "optionB": "constant current region",
+        "optionC": "both constant voltage and constant current regions",
+        "optionD": "either constant voltage or constant current region",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The power dissipation in a transistor is the product of",
+        "optionA": "emitter current and emitter to base voltage",
+        "optionB": "emitter current and collector to emitter voltage",
+        "optionC": "collector current and collector to emitter voltage",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following is true as regards photo emission?",
+        "optionA": "Velocity of emitted electrons is dependent on light intensity",
+        "optionB": "Rate of photo emission is inversely proportional to light intensity",
+        "optionC": "Maximum velocity of electron increases with decreasing wave length",
+        "optionD": "Both holes and electrons are produced",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A p-n junction diode has",
+        "optionA": "low forward and high reverse resistance",
+        "optionB": "a non-linear v-i characteristics",
+        "optionC": "zero forward current till the forward voltage reaches cut in value",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In which region of a CE bipolar transistor is collector current almost constant?",
+        "optionA": "Saturation region",
+        "optionB": "Active region",
+        "optionC": "Breakdown region",
+        "optionD": "Both saturation and active region",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The word enhancement mode is associated with",
+        "optionA": "tunnel diode",
+        "optionB": "MOSFET",
+        "optionC": "JFET",
+        "optionD": "photo diode",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Work function of oxide coated cathode is much lower than that of tungsten cathode.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A periodic voltage has following value for equal time intervals changing suddenly from one value to next... 0, 5, 10, 20, 50, 60, 50, 20, 10, 5, 0, -5, -10 etc. Then rms value of the waveform is",
+        "optionA": "31 V",
+        "optionB": "32 V",
+        "optionC": "insufficient data",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Assertion (A): The reverse saturation current in a semiconductor diode is 4nA at 20°C and 32 nA at 50°C.",
+        "optionA": "Both A and R are true and R is correct explanation of A",
+        "optionB": "Both A and R are true but R is not a correct explanation of A",
+        "optionC": "A is true but R is false",
+        "optionD": "A is false but R is true",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A potential of 7 V is applied to a silicon diode. A resistance of 1 K ohm is also in series with the diode. The current is",
+        "optionA": "7 mA",
+        "optionB": "6.3 mA",
+        "optionC": "0.7 mA",
+        "optionD": "0",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The types of carriers in a semiconductor are",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "4",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In a degenerate n type semiconductor material, the Fermi level",
+        "optionA": "is in valence band",
+        "optionB": "is in conduction band",
+        "optionC": "is at the centre in between valence and conduction bands",
+        "optionD": "is very near valence band",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Secondary emission is always decremental.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The v-i characteristics of a FET is shown in the figure. In which region is the device biased for small signal amplification",
+        "optionA": "AB",
+        "optionB": "BC",
+        "optionC": "CD",
+        "optionD": "BD",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In a bipolar transistor, which current is largest",
+        "optionA": "collector current",
+        "optionB": "base current",
+        "optionC": "emitter current",
+        "optionD": "base current or emitter current",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "In a zener diode",
+        "optionA": "the forward current is very high",
+        "optionB": "sharp breakdown occurs at a certain reverse voltage",
+        "optionC": "the ratio v-i can be negative",
+        "optionD": "there are two p-n junctions",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A particular green LED emits light of wavelength 5490, Å, the energy bandgap of the semiconductor material used there is .. h = 6.6 x 10-34 J sec.",
+        "optionA": "2.26 eV",
+        "optionB": "1.98 eV",
+        "optionC": "1.17 eV",
+        "optionD": "0.74 eV",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "An increase in temperature increases the width of depletion layer.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In an n-p-n transistor biased for operation in forward active region",
+        "optionA": "emitter is positive with respect to base",
+        "optionB": "collector is positive with respect to base",
+        "optionC": "base is positive with respect to emitter and collector is positive with respect to base",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Assertion (A): The conductivity of p type semiconductor is higher than that of intrinsic semiconductor.",
+        "optionA": "Both A and R are true and R is correct explanation of A",
+        "optionB": "Both A and R are true but R is not a correct explanation of A",
+        "optionC": "A is true but R is false",
+        "optionD": "A is false but R is true",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "If αac for transistor is 0.98, then βac is equal to",
+        "optionA": "51",
+        "optionB": "49",
+        "optionC": "47",
+        "optionD": "45",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Crossover distortion behaviour is characteristic of",
+        "optionA": "class A O/P stage",
+        "optionB": "class B O/P stage",
+        "optionC": "class AB output stage",
+        "optionD": "common pulse O/P state",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "As compared to an ordinary semiconductor diode, a Schottky diode",
+        "optionA": "has higher reverse saturation current",
+        "optionB": "has higher reverse saturation current and higher cut in voltage",
+        "optionC": "has higher reverse saturation current and lower cut in voltage",
+        "optionD": "has lower reverse saturation current and lower cut in voltage",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Assertion (A): When a high reverse voltage is applied to a p-n junction the diode breaks down.",
+        "optionA": "Both A and R are true and R is correct explanation of A",
+        "optionB": "Both A and R are true but R is not a correct explanation of A",
+        "optionC": "A is true but R is false",
+        "optionD": "A is false but R is true",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "As compared to an ordinary semiconductor diode, a Schottky diode",
+        "optionA": "has lower cut in voltage",
+        "optionB": "has higher cut in voltage",
+        "optionC": "lower reverse saturation current",
+        "optionD": "both (b) and (c)",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "An amplifier without feedback has a voltage gain of 50, input resistance of 1 kΩ and output resistance of 2.5 kΩ. The input resistance of the current shunt -ve feedback amplifier using the above amplifier with a feedback factor of 0.2 is",
+        "optionA": "1/11 kΩ",
+        "optionB": "1/5 kΩ",
+        "optionC": "5 kW",
+        "optionD": "11 kW",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In a bipolar transistor, the barrier potential is",
+        "optionA": "0",
+        "optionB": "a total of 0.7 V",
+        "optionC": "0.7 V across each depletion layer",
+        "optionD": "0.35 V",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A silicon (PN) junction at a temperature of 20°C has a reverse saturation current of 10 pico Ampere. The reverse saturation current at 40°C for the same bias is approximately.",
+        "optionA": "30 pA",
+        "optionB": "40 pA",
+        "optionC": "50 pA",
+        "optionD": "60 pA",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A transistor has two p-n junctions. The batteries should be connected such that",
+        "optionA": "both junctions are forward biased",
+        "optionB": "both junctions are reverse biased",
+        "optionC": "one junction is forward biased and the other is reverse biased",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The number of doped regions in PIN diode is",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "1 or 2",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "An LED has a rating of 2 V and 10 mA. It is used along with 6V battery. The range of series resistance is",
+        "optionA": "0 to 200 Ω",
+        "optionB": "200 - 400 Ω",
+        "optionC": "200 Ω and above",
+        "optionD": "400 Ω and above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In an n-p-n transistor, the majority carriers in the base are",
+        "optionA": "electrons",
+        "optionB": "holes",
+        "optionC": "both holes and electrons",
+        "optionD": "either holes or electrons",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In a p type material, the Fermi level is 0.3 eV above valence band. The concentration of acceptor atoms is increased. The new position of Fermi level is likely to be",
+        "optionA": "0.5 eV above valence band",
+        "optionB": "0.28 eV above valence band",
+        "optionC": "0.1 eV above valence band",
+        "optionD": "below the valence band",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Ferrite have",
+        "optionA": "low copper loss",
+        "optionB": "low eddy current loss",
+        "optionC": "low resistivity",
+        "optionD": "higher specific gravity compared to iron",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "When a voltage is applied to a semiconductor crystal, then the free electrons will flow",
+        "optionA": "towards positive terminal",
+        "optionB": "towards negative terminal",
+        "optionC": "either towards positive terminal or negative terminal",
+        "optionD": "towards positive terminal for 1 μs and towards negative terminal for next 1 μs",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In the circuit above, the function of resistor R and diode D are",
+        "optionA": "to limit the current and to protect LED against over voltage",
+        "optionB": "to limit the voltage and to protect LED against over current",
+        "optionC": "to limit the current and protect LED against reverse breakdown voltage.",
+        "optionD": "none of the above.",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Assertion (A): A p-n junction has high resistance in reverse direction.",
+        "optionA": "Both A and R are true and R is correct explanation of A",
+        "optionB": "Both A and R are true but R is not a correct explanation of A",
+        "optionC": "A is true but R is false",
+        "optionD": "A is false but R is true",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The amount of photoelectric emission current depends on",
+        "optionA": "frequency of incident radiation",
+        "optionB": "intensity of incident radiation",
+        "optionC": "both frequency and intensity of incident radiation",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In an n channel JFET, the gate is",
+        "optionA": "n type",
+        "optionB": "p type",
+        "optionC": "either n or p",
+        "optionD": "partially n & partially p",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In p-n-p transistor the current IE has two components viz. IEP due to injection of holes from p-region to n-region and IE due to injection of electrons from n-region to p-region. Then",
+        "optionA": "IEp and IEn are almost equal",
+        "optionB": "IEp >> IEn",
+        "optionC": "IEn >> IEp",
+        "optionD": "either (a) or (c)",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A transistor has a current gain of 0.99 in the CB mode. Its current gain in the CC mode is",
+        "optionA": "100",
+        "optionB": "99",
+        "optionC": "1.01",
+        "optionD": "0.99",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In which of these is reverse recovery time nearly zero?",
+        "optionA": "Zener diode",
+        "optionB": "Tunnel diode",
+        "optionC": "Schottky diode",
+        "optionD": "PIN diode",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The most commonly used semiconductor material is",
+        "optionA": "silicon",
+        "optionB": "germanium",
+        "optionC": "mixture of silicon and germanium",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Work function is the maximum energy required by the fastest electron at 0 K to escape from the metal surface.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Cannot say",
+        "optionD": "It depends",
+        "Correct": "Correct answer is B"
+    }
+]

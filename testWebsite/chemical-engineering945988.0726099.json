@@ -1,0 +1,362 @@
+[
+    {
+        "Question": "Sudden fall of atmospheric pressure by a large amount is an indication of the",
+        "optionA": "rain",
+        "optionB": "cold wave",
+        "optionC": "storm",
+        "optionD": "fair weather",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following fastening devices has a head at one end and a nut fitted to the other ?",
+        "optionA": "Bolt",
+        "optionB": "Stud",
+        "optionC": "Top bolt",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Energy of the sun arises mainly from __________ reactions.",
+        "optionA": "fusion",
+        "optionB": "fission",
+        "optionC": "combustion",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The most economical channel section for the fluid flow is the one for which the discharge is maximum for a given cross-sectional area. Vertical velocity distribution in an open channel for laminar flow can be assumed to be",
+        "optionA": "parabolic",
+        "optionB": "hyperbolic",
+        "optionC": "straight line",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Transition from laminar to turbulent zone in free convection heat transfer is governed by the critical value of",
+        "optionA": "Grashoff number.",
+        "optionB": "Grashoff number & Reynolds number.",
+        "optionC": "Reynolds number.",
+        "optionD": "Grashoff number & Prandtl number.",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Corrosion of metals can not be prevented by its",
+        "optionA": "tempering",
+        "optionB": "chromising",
+        "optionC": "aluminising",
+        "optionD": "alloying",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Electrical conductivities of semi-conductors are of the order of __________ ohm/cm.",
+        "optionA": "10-3",
+        "optionB": "103",
+        "optionC": "10-15",
+        "optionD": "l015",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "If the demand for an item is trebled and the order cost is reduced to one third, then the economic order quantity",
+        "optionA": "is trebled.",
+        "optionB": "remains unchanged.",
+        "optionC": "decreases by a factor of √3.",
+        "optionD": "decreases by a factor of 1/3.",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Nusselt number is related to Grashoff number (Gr) in turbulent & laminar flow respectively, in respect of free convection over a vertical flat plate as",
+        "optionA": "Gr0.25, Gr",
+        "optionB": "Gr0.25, Gr0.33",
+        "optionC": "Gr, Gr0.25",
+        "optionD": "Gr0.33, Gr0.25",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Absolute zero pressure can be attained at a temperature of",
+        "optionA": "0°C",
+        "optionB": "50°K",
+        "optionC": "0°R",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Cobalt - 60 is used as a source of __________ in medical therapy & industrial radiography.",
+        "optionA": "X-rays",
+        "optionB": "γ-rays",
+        "optionC": "α-rays",
+        "optionD": "β-rays",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In condensers used in thermal power plants, steam is normally used in shell side and cooling water on the tube side, because of the reason that",
+        "optionA": "compared to the mass flow rate of cooling water, the rate of condensation of steam is invariably smaller.",
+        "optionB": "maintaining vacuum on tube side is more difficult than that on the shell side.",
+        "optionC": "water velocity can be increased conveniently to increase the overall heat transfer co-efficient because of its lower specific volume compared to steam.",
+        "optionD": "condenser can act as a storage unit for condensed steam.",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Maximum amount of thermal radiation is emitted at all wavelengths at any specified temperature by a/an __________ body.",
+        "optionA": "grey",
+        "optionB": "black",
+        "optionC": "opaque",
+        "optionD": "white",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Transformation range for ferrous material is the temperature interval during which __________ is formed during its heating.",
+        "optionA": "cementite",
+        "optionB": "austenite",
+        "optionC": "martensite",
+        "optionD": "pearlite",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Machinability of hard alloys and tool steels is improved by",
+        "optionA": "spherodising",
+        "optionB": "annealing",
+        "optionC": "tempering",
+        "optionD": "normalising",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following parameters is not responsible for the heat loss from a hot steam carrying bare pipe surface located in a room without fans ?",
+        "optionA": "Emissivity of pipe surface.",
+        "optionB": "Diameter & length of the pipe.",
+        "optionC": "Temperature of hot pipe surface & that of air in the room.",
+        "optionD": "none of these.",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Nuclear fission of one atom of uranium-235 produces the energy equivalent to about __________ MeV.",
+        "optionA": "20",
+        "optionB": "200",
+        "optionC": "500",
+        "optionD": "1000",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In extrusion of metals, which of the following statements is true ?",
+        "optionA": "speed of the extruded material is same as that of ram speed.",
+        "optionB": "Redundant work is a function of the die angle.",
+        "optionC": "Relative motion between the billet surface and the container wall is always present.",
+        "optionD": "Hollow ram is used for indirect extrusion.",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "An alloy of Fe - 0.4 % C is",
+        "optionA": "cast iron.",
+        "optionB": "hypo-eutectoid steel.",
+        "optionC": "hyper-eutectoid steel.",
+        "optionD": "eutectoid steel",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Titanium alloys are welded using the following process:",
+        "optionA": "TIG welding.",
+        "optionB": "Submerged arc welding.",
+        "optionC": "Butt welding.",
+        "optionD": "Electron beam welding.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "__________ is the hardest oxide and is hence used where high wear resistance at high temperature is required.",
+        "optionA": "Beryllia",
+        "optionB": "Zirconia",
+        "optionC": "Alumina",
+        "optionD": "Magnesia",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Area under the stress-strain curve upto the __________ is referred to as the modulus of resilience.",
+        "optionA": "yield strength",
+        "optionB": "elastic limit",
+        "optionC": "proportional limit",
+        "optionD": "maximum point",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Maximum permissible air velocity in pipelines is about __________ metre/second.",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "20",
+        "optionD": "40",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The usual energy consumption in electric arc furnace steel making is __________ KWh/ton of steel.",
+        "optionA": "60 - 100",
+        "optionB": "400 - 700",
+        "optionC": "1200 -1500",
+        "optionD": "2000 - 2300",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Pick out the wrong statement.",
+        "optionA": "A ferromagnetic material becomes paramagnetic above the 'Curie temperature'.",
+        "optionB": "Permanent magnets are made of hard materials, whereas electromagnets require soft magnetic materials.",
+        "optionC": "Soft magnetic materials (e.g., pure iron) have higher permeability and low hysterisis loss and coercive forces.",
+        "optionD": "Tungsten steel and alnico are not hard magnetic materials.",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In the blast furnace, incorporation of water vapour in the blast gives the following effect.",
+        "optionA": "Increases the reducing potential of the gas.",
+        "optionB": "Increases the flame temperature.",
+        "optionC": "No significant change occurs.",
+        "optionD": "Increases the hydrogen content in the metal.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Powder metallurgy process does not make metal powder by",
+        "optionA": "atomisation",
+        "optionB": "grinding/milling",
+        "optionC": "hammering",
+        "optionD": "electrolytic deposition",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If a nuclear reactor produces more fissile nuclear fuel than it consumes, then it is called a __________ reactor.",
+        "optionA": "critical",
+        "optionB": "breeder",
+        "optionC": "fertile",
+        "optionD": "heterogenous",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A solar cell converts the sunlight directly into __________ energy.",
+        "optionA": "thermal",
+        "optionB": "electrical",
+        "optionC": "mechanical",
+        "optionD": "chemical",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Resistance of an electrical conductor is proportional to its (where, l = length and A = cross-sectional area of the conductor)",
+        "optionA": "A",
+        "optionB": "l",
+        "optionC": "A2",
+        "optionD": "both 'a' & 'b'",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Annealing of white cast iron produces __________ iron.",
+        "optionA": "grey",
+        "optionB": "nodular",
+        "optionC": "malleable",
+        "optionD": "spheroidal",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Maxwell's thermodynamic relations applies to the",
+        "optionA": "chemical systems in equilibrium.",
+        "optionB": "mechanical systems in equilibrium.",
+        "optionC": "irreversible thermodynamic processes.",
+        "optionD": "reversible thermodynamic processes.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is not an explosive?",
+        "optionA": "TNT",
+        "optionB": "CMC",
+        "optionC": "RDX",
+        "optionD": "Lead azide",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Evaporative cooling process employs a combination of cooling and humidification in which the",
+        "optionA": "sensible heat is added.",
+        "optionB": "sensible heat is removed and the latent heat is added.",
+        "optionC": "latent heat is removed.",
+        "optionD": "sensible heat is added and latent heat is removed.",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A high pressure boiler generates steam at a pressure greater than __________ kg/cm2 .",
+        "optionA": "10",
+        "optionB": "30",
+        "optionC": "50",
+        "optionD": "80",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In troposphere (the weather domain), the temperature 't' at height 'h' above the sea level in metres is given by (where, temperature at sea level is 15°C and t is in °C.)",
+        "optionA": "t = 15 - 0.0065 h",
+        "optionB": "t = 15 + 0.0065 h",
+        "optionC": "t = 0.0035 h - 15",
+        "optionD": "t = 15 - 0.0035 h",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Speisses is a mixture of the following:",
+        "optionA": "Arsenides of heavy metals.",
+        "optionB": "Antimonides of heavy metals.",
+        "optionC": "Arsenides & antimonides of heavy metals.",
+        "optionD": "Iron, cobalt and nickel.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Chromium molybdenum steel cannot be welded using __________ welding.",
+        "optionA": "thermit",
+        "optionB": "electrical resistance",
+        "optionC": "oxy-acetylene",
+        "optionD": "any of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Fog is an example of colloidal system of",
+        "optionA": "solid dispersed in gas.",
+        "optionB": "solid dispersed in liquid.",
+        "optionC": "liquid dispersed in gas.",
+        "optionD": "gas dispersed in liquid.",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following type of bonding is strongly directional in solids.",
+        "optionA": "Vander Waal's",
+        "optionB": "Ionic",
+        "optionC": "Metallic",
+        "optionD": "Covalant",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "All of the following alloying elements of steel increases hardness but sacrifice ductility, except",
+        "optionA": "nickel",
+        "optionB": "vanadium",
+        "optionC": "molybdenum",
+        "optionD": "chromium",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Friction factor for fluid flow in pipe does not depend upon the",
+        "optionA": "pipe length.",
+        "optionB": "pipe roughness.",
+        "optionC": "fluid density & viscosity.",
+        "optionD": "mass flow rate of fluid.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Tin based white metals are used where bearings are subjected to",
+        "optionA": "high pressure & load.",
+        "optionB": "low pressure & load.",
+        "optionC": "high temperature.",
+        "optionD": "large surface wear.",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The softness or hardness of a grinding wheel depends upon the type & amount of bonding material used. For general purpose cutter grinding, __________ grinding wheel is normally used.",
+        "optionA": "hard",
+        "optionB": "soft",
+        "optionC": "silicon carbide",
+        "optionD": "aluminium oxide",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which one of the following is incombustible?",
+        "optionA": "H2",
+        "optionB": "CCl4",
+        "optionC": "C2H2",
+        "optionD": "S",
+        "Correct": "Correct answer is B"
+    }
+]

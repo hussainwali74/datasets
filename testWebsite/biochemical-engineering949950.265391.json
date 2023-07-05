@@ -1,0 +1,450 @@
+[
+    {
+        "Question": "Chymosin hydrolyses the bond between",
+        "optionA": "Alanine and glycine",
+        "optionB": "Phenyl alanine and methonine",
+        "optionC": "Glutamic acid and alanine",
+        "optionD": "Alanine and phenyl alanine",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "The enzyme β-galactosidase is also known as",
+        "optionA": "lactase",
+        "optionB": "EC3.2.1.23",
+        "optionC": "both (a) and (b)",
+        "optionD": "isomerase",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Enzymes degrade, alter or synthesize a food component through",
+        "optionA": "oxidation/reduction/isomerization",
+        "optionB": "hydrolysis/synthesis",
+        "optionC": "group transfer",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The prosthetic group present in phenolase enzyme is",
+        "optionA": "Mg",
+        "optionB": "Cu",
+        "optionC": "Ca",
+        "optionD": "Fe",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Discoloration can be achieved by using",
+        "optionA": "sulphloydryl oxidase",
+        "optionB": "proteases",
+        "optionC": "anthocyanase",
+        "optionD": "all of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The reduction in off flavour of beer is practiced through",
+        "optionA": "hersperidinase",
+        "optionB": "rnase",
+        "optionC": "invertase",
+        "optionD": "diacetyl reductase",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Soya off flavour removal may be achieved using",
+        "optionA": "di acetyl reductase",
+        "optionB": "β- amylase",
+        "optionC": "aldehyde oxidase",
+        "optionD": "protease",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following enzyme is responsible for causing vitamin B deficiency disease beriberi?",
+        "optionA": "Ascorbic acid oxidase",
+        "optionB": "Thiaminase",
+        "optionC": "Lipoxygenase",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Citrus juice debittering can be carried out using",
+        "optionA": "limoninase",
+        "optionB": "inulinase",
+        "optionC": "anthocyanase",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the enzyme combination is commercially used for the removal of oxygen?",
+        "optionA": "Glucose oxidase-cellulase",
+        "optionB": "Glucose oxidase-catalase",
+        "optionC": "Glucose oxidase-lactase",
+        "optionD": "All of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following metallic ion is there in ascorbic acid oxidase?",
+        "optionA": "Mg",
+        "optionB": "Fe",
+        "optionC": "Cu",
+        "optionD": "Mn",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Hersperidinase is used for",
+        "optionA": "juice clarification",
+        "optionB": "juice debittering",
+        "optionC": "off flavour reduction",
+        "optionD": "RNA reduction in fish",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Lysozyme",
+        "optionA": "catalyses hydrolysis of β-1-4 linkages between N-acetyl muranic acid and N-acetyl glucosamine in peptideoglycan",
+        "optionB": "catalyses hydrolysis of α-1-4 linkages between N-acetyl muranic acid and N-acetyl glucosamine in peptideoglycan",
+        "optionC": "catalyses hydrolysis of α-1-4 linkages between N-diacetyl muranic acid and N-diacetyl glucosamine in peptideoglycan",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following mainly serve to convert starch into high fructose corn syrup (HFCS)?",
+        "optionA": "α-amylase",
+        "optionB": "Gluco-isomerase",
+        "optionC": "Gluco-amylase",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Milk digestibility is improved by using",
+        "optionA": "RNase",
+        "optionB": "lactase",
+        "optionC": "β-amylase",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which is true about rennet?",
+        "optionA": "It is a mixture of protease chymosin and pepsin",
+        "optionB": "It is a mixture of rennin and pepsin",
+        "optionC": "Both (a) and (b)",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Liquefaction of starch to dextrin is carried out by",
+        "optionA": "α-amylase",
+        "optionB": "cellulase",
+        "optionC": "pectinase",
+        "optionD": "all of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "α-amylase is an endo enzyme which requires",
+        "optionA": "Ca",
+        "optionB": "Cu",
+        "optionC": "Mn",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The bitter taste of the high protein materials is reduced by using",
+        "optionA": "invertase",
+        "optionB": "dectinase",
+        "optionC": "protease",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Trichoderma β-glucanase is reported",
+        "optionA": "to stabilize mashing",
+        "optionB": "to convert taste fractions of dextrins to fermentable sugars in beer",
+        "optionC": "to convert starch to dextrin",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Enzymes act as antimicrobials",
+        "optionA": "by depriving an organism of a necessary metabolite",
+        "optionB": "by generating a substances toxic to the organism",
+        "optionC": "by attracting a cell wall component",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Lysozyme is naturally present in",
+        "optionA": "egg white",
+        "optionB": "bacteria",
+        "optionC": "tears & milk",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Juice clarification extraction is facilitated by using",
+        "optionA": "cellulases",
+        "optionB": "amylase",
+        "optionC": "inulinase",
+        "optionD": "lactase",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "β-amylase is",
+        "optionA": "endoenzyme",
+        "optionB": "exoenzyme",
+        "optionC": "saccharifying enzyme",
+        "optionD": "both (b) and (c)",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Coliform bacteria in water is an indication of the presence of",
+        "optionA": "radioactive wastes",
+        "optionB": "excess fertilizer",
+        "optionC": "decaying animals and plants",
+        "optionD": "human feces",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Both temporary and permanent hardness of water can be removed by",
+        "optionA": "boiling",
+        "optionB": "distillation",
+        "optionC": "filtration",
+        "optionD": "decantation",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The methods used for biological treatment are",
+        "optionA": "lagoon",
+        "optionB": "activated sludge process",
+        "optionC": "oxidation ditches",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "When temporary hard water is boiled, one of the substances formed is",
+        "optionA": "calcium bicarbonate",
+        "optionB": "calcium sulfate",
+        "optionC": "hydrogen chloride",
+        "optionD": "carbon dioxide",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "BOD stands for",
+        "optionA": "biochemical oxygen demand",
+        "optionB": "basic oxygen demand",
+        "optionC": "british oxygen depletion",
+        "optionD": "biological oxygen depletion",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The activated sludge process is sometimes referred as",
+        "optionA": "fluid bed biological oxidation system",
+        "optionB": "fixed bed biological oxidation system",
+        "optionC": "turning bed biological oxidation system",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The activated sludge process consists of returning a portion of the clarifier",
+        "optionA": "effluent water entering the reactor",
+        "optionB": "influent water coming out of the reactor",
+        "optionC": "influent water entering the reactor",
+        "optionD": "effluent water coming out of the reactor",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Calgon is used for removal of",
+        "optionA": "sodium carbonate",
+        "optionB": "permanent hardness of water",
+        "optionC": "potassium carbonate",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The purest form of naturally occurring water is",
+        "optionA": "rain water",
+        "optionB": "river water",
+        "optionC": "pond water",
+        "optionD": "well water",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "From the following sanitizers which one comes under category of surface active agents?",
+        "optionA": "Tetra phosphate",
+        "optionB": "Teepol",
+        "optionC": "Meta phosphate",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Temporary hardness of water may be removed by adding",
+        "optionA": "calcium hydroxide",
+        "optionB": "calcium carbonate",
+        "optionC": "calcium chloride",
+        "optionD": "sodium bicarbonate",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Lagoons may be characterized as",
+        "optionA": "anaerobic",
+        "optionB": "facultative",
+        "optionC": "aerated",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Permanent hardness of water may be removed by the addition of",
+        "optionA": "lime",
+        "optionB": "soda ash",
+        "optionC": "potassium permagnate",
+        "optionD": "sodium bicarbonate",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The ultimate source of water is",
+        "optionA": "rivers and lakes",
+        "optionB": "dew and forest",
+        "optionC": "rain and snow",
+        "optionD": "underground and surface",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sedimentation is a physical process used in wastewater treatment to",
+        "optionA": "remove particles that are less dense than water",
+        "optionB": "remove particles that are more dense than water",
+        "optionC": "remove the pertinacious material from the water",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Biological oxidation processes usually referred as biological treatment, are the most common form of",
+        "optionA": "primary treatment",
+        "optionB": "secondary treatment",
+        "optionC": "tertiary treatment",
+        "optionD": "all of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following substances are commonly used in a filter?",
+        "optionA": "Charcoal",
+        "optionB": "Sand",
+        "optionC": "Both (a) and (b)",
+        "optionD": "Aluminum chloride",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sanitizers used for rubber made equipments are",
+        "optionA": "strong acids",
+        "optionB": "strong alkalis",
+        "optionC": "combination of both",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Inhibitors are used along with sanitizer to",
+        "optionA": "improve their action",
+        "optionB": "to prevent corrosion",
+        "optionC": "both (a) and (b)",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The common method(s) used for disinfection in waste water treatment plants are",
+        "optionA": "chlorination",
+        "optionB": "UV light",
+        "optionC": "both (a) and (b)",
+        "optionD": "Phenolic solvent",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sanitizer used specifically for vitreous enamel are",
+        "optionA": "strong alkalis",
+        "optionB": "strong acids",
+        "optionC": "weak alkali with sodium silicate",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following chemical is sometimes added in the process of coagulation and flocculation?",
+        "optionA": "Aluminum sulphate",
+        "optionB": "Aluminum oxide",
+        "optionC": "Calcium chloride",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Acid used mostly for removal of milk stone is",
+        "optionA": "phosphoric acid",
+        "optionB": "nitric acid",
+        "optionC": "gluconic acid",
+        "optionD": "tartaric acid",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Permanent hardness of water is caused by the presence of",
+        "optionA": "bicarbonates of calcium and magnesium",
+        "optionB": "carbonates of sodium and potassium",
+        "optionC": "chlorides and sulfates of calcium and magnesium",
+        "optionD": "phosphates of sodium and potassium",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Application of quaternary ammonium compounds as sanitizing agents tends to",
+        "optionA": "favor gram positive bacteria",
+        "optionB": "decrease gram positive bacteria",
+        "optionC": "increase the percentage of gram(-)ve rods on utensils",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Secondary treatment uses __________ to consume wastes.",
+        "optionA": "micro-organisms",
+        "optionB": "chemicals",
+        "optionC": "filtration",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Temporary hardness of water is caused by the presence of",
+        "optionA": "chlorides of calcium and magnesium",
+        "optionB": "sulfates of calcium and magnesium",
+        "optionC": "bicarbonates of calcium and magnesium",
+        "optionD": "carbonates of sodium and potassium",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Zeolite used in zeolite softening process for the treatment of hard water gets exhausted after certain time of usage but can be regenerated by flushing it with",
+        "optionA": "10% calcium chloride solution",
+        "optionB": "10% magnesium sulfate solution",
+        "optionC": "10% magnesium chloride solution",
+        "optionD": "10% sodium chloride solution",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Permanent hard water may be softened by passing it through",
+        "optionA": "sodium silicate",
+        "optionB": "sodium bicarbonate",
+        "optionC": "sodium hexametaphosphate",
+        "optionD": "sodium phosphate",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Hardness of water does not",
+        "optionA": "have any bad effect in boiler",
+        "optionB": "make cooking of foods difficult",
+        "optionC": "make it unfit for drinking",
+        "optionD": "cause difficulty in the washing of clothes with soaps",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Conventional tertiary treatment is",
+        "optionA": "chemical coagulation and flocculation",
+        "optionB": "filtration",
+        "optionC": "sedimentation",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Zeolite softening process removes",
+        "optionA": "only temporary hardness of water",
+        "optionB": "only permanent hardness of water",
+        "optionC": "both temporary and permanent hardness of water",
+        "optionD": "the dissolved gases in permanent hard water",
+        "Correct": "Correct answer is C"
+    }
+]

@@ -1,0 +1,498 @@
+[
+    {
+        "Question": "From his house, Lokesh went 15 km to the North. Then he turned west and covered 10 km. Then he turned south and covered 5 km. Finally turning to the east, he covered 10 km. In which direction is he from his house?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "North",
+        "optionD": "South",
+        "Correct": "Correct answer is CNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?",
+        "optionA": "20 km",
+        "optionB": "30 km",
+        "optionC": "50 km",
+        "optionD": "60 km",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Sundar runs 20 m towards East and turns to the right and runs 10 m. Then he turns to the right and runs 9 m. Again he turns to right and runs 5 m. After this, he turns to the left and runs 12 m and finally he turns to the right and runs 6 m. Now to which direction is Sundar facing?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "North",
+        "optionD": "South",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Radha moves towards South-East a distance of 7 km, then she moves towards West and travels a distance of 14 km. From here, she moves towards North-West a distance of 7 km and finally she moves a distance of 4 km towards east. How far is she now from the starting point?",
+        "optionA": "3 km",
+        "optionB": "4 km",
+        "optionC": "10 km",
+        "optionD": "11 km",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Village Q is to the North of the village P. Village R is in the East of Village Q. Village S is to the left of the village P. In which direction is village S with respect to village R?",
+        "optionA": "West",
+        "optionB": "South-West",
+        "optionC": "South",
+        "optionD": "North-West",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Rohit walked 25 m towards south. Then he turned to his left and walked 20 m. He then turned to his left and walked 25 m. He again turned to his right and walked 15 m. At what distance is he from the starting point and in which direction?",
+        "optionA": "35 m East",
+        "optionB": "35 m North",
+        "optionC": "30 m West",
+        "optionD": "45 m East",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Amit started walking, positioning his back towards the sun. After some time, he turned left, then turned right and towards the left again. In which direction is he going now?",
+        "optionA": "North or South",
+        "optionB": "East or West",
+        "optionC": "North or West",
+        "optionD": "South or West",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Shyam walks 5 km towards East and then turns left and walks 6 km. Again he turns right and walks 9 km. Finally he turns to his right and walks 6 km. How far is he from the starting point?",
+        "optionA": "26 km",
+        "optionB": "21 km",
+        "optionC": "14 km",
+        "optionD": "9 km",
+        "Correct": "Correct answer is CNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Umesh directly went from P to Q which is 9 feet distant. Then he turns to the right and walked 4 feet. After this he turned to the right and walked a distance which is equal from P to Q. Finally he turned to the right and walked 3 feet. How far is he now from P?",
+        "optionA": "6 feet",
+        "optionB": "5 feet",
+        "optionC": "1 foot",
+        "optionD": "0 foot",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A child went 90 m in the East to look for his father, then he turned right and went 20 m. After this he turned right and after going 30 m he reached to his uncle's house. His father was not there. From there he went 100 m to his north and met his father. How far did he meet his father from the starting point?",
+        "optionA": "80 m",
+        "optionB": "100 m",
+        "optionC": "140 m",
+        "optionD": "260 m",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",
+        "optionA": "East",
+        "optionB": "South",
+        "optionC": "West",
+        "optionD": "Data is inadequate",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "If A x B means A is to the south of B; A + B means A is to the north of B; A % B means A is to the east of B; A - B means A is to the west of B; then in P % Q + R - S, S is in which direction with respect to Q?",
+        "optionA": "South-West",
+        "optionB": "South-East",
+        "optionC": "North-East",
+        "optionD": "North-West",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "One morning after sunrise, Nivedita and Niharika were talking to each other face to face at Dalphin crossing. If Niharika's shadow was exactly to the right of Nivedita, which direction was Niharika facing?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "East",
+        "optionD": "Data is inadequate",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Reena walked from A to B in the East 10 feet. Then she turned to the right and walked 3 feet. Again she turned to the right and walked 14 feet. How far is she from A?",
+        "optionA": "4 feet",
+        "optionB": "5 feet",
+        "optionC": "24 feet",
+        "optionD": "27 feet",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Ravi left home and cycled 10 km towards South, then turned right and cycled 5 km and then again turned right and cycled 10 km. After this he turned left and cycled 10 km. How many kilometers will he have to cycle to reach his home straight?",
+        "optionA": "10 km",
+        "optionB": "15 km",
+        "optionC": "20 km",
+        "optionD": "25 km",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "After walking 6 km, I turned to the right and then walked 2 km. After then I turned to the left and walked 10 km. In the end, I was moving towards the North. From which direction did I start my journey?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "East",
+        "optionD": "West",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "X started to walk straight towards south. After walking 5 m he turned to the left and walked 3 m. After this he turned to the right and walked 5 m. Now to which direction is X facing?",
+        "optionA": "North-East",
+        "optionB": "South",
+        "optionC": "North",
+        "optionD": "South-West",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "P started from his house towards west. After walking a distance of 25 m. He turned to the right and walked 10 m. He then again turned to the right and walked 15 m. After this he is to turn right at 135o and to cover 30 m. In which direction should he go?",
+        "optionA": "West",
+        "optionB": "South",
+        "optionC": "South-West",
+        "optionD": "South-East",
+        "Correct": "Correct answer is CNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "One morning after sunrise, Vimal started to walk. During this walking, he met Stephen who was coming from opposite direction. Vimal saw that the shadow of Stephen was to the right of him (Vimal). To which direction was Vimal facing?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "South",
+        "optionD": "Data inadequate",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Some boys are sitting in three rows all facing North such that A is in the middle row. P is just to the right of A but in the same row. Q is just behind of P while R is in the North of A. In which direction of R is Q?",
+        "optionA": "South",
+        "optionB": "South-West",
+        "optionC": "North-East",
+        "optionD": "South-East",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "One morning sujata started to walk towards the Sun. After covering some distance she turned to right then again to the right and after covering some distance she again turns to the right. Now in which direction is she facing?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "North-East",
+        "optionD": "South-West",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The length and breadth of a room are 8 m and 6 m respectively. A cat runs along all the four walls and finally along a diagonal order to catch a rat. How much total distance is covered by the cat?",
+        "optionA": "10",
+        "optionB": "14",
+        "optionC": "38",
+        "optionD": "48",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A man walks 2 km towards North. Then he turns to East and walks 10 km. After this he turns to North and walks 3 km. Again he turns towards East and walks 2 km. How far is he from the starting point?",
+        "optionA": "10 km",
+        "optionB": "13 km",
+        "optionC": "15 km",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "North-East",
+        "optionD": "South",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A boy rode his bicycle Northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride northward initially?",
+        "optionA": "1 km",
+        "optionB": "2 km",
+        "optionC": "3 km",
+        "optionD": "5 km",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "One evening before sunset, Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "East",
+        "optionD": "Data is inadequate",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Starting from the point X, Jayant walked 15 m towards west. He turned left and walked 20 m. He then turned left and walked 15 m. After this he turned to his right and walked 12 m. How far and in which directions is now Jayant from X?",
+        "optionA": "32 m, South",
+        "optionB": "47 m, East",
+        "optionC": "42 m, North",
+        "optionD": "27 m, South",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?",
+        "optionA": "15 m West",
+        "optionB": "30 m East",
+        "optionC": "30 m West",
+        "optionD": "45 m East",
+        "Correct": "Correct answer is DNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
+        "optionA": "South-East",
+        "optionB": "South",
+        "optionC": "North",
+        "optionD": "West",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+        "optionA": "West",
+        "optionB": "South",
+        "optionC": "North-East",
+        "optionD": "South-West",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+        "optionA": "North-East",
+        "optionB": "North-West",
+        "optionC": "South-East",
+        "optionD": "South-West",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "South-East",
+        "optionD": "None of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "North",
+        "optionD": "South",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Choose the odd one out.",
+        "optionA": "CGON",
+        "optionB": "FJQP",
+        "optionC": "HLTS",
+        "optionD": "LPXW",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Choose the odd one out.",
+        "optionA": "BFJM",
+        "optionB": "DEFG",
+        "optionC": "JMPS",
+        "optionD": "PRTV",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Choose the odd one out.",
+        "optionA": "ADGJ",
+        "optionB": "FILO",
+        "optionC": "LORU",
+        "optionD": "ILMP",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Choose the odd one out.",
+        "optionA": "AEGC",
+        "optionB": "HLNJ",
+        "optionC": "OSVQ",
+        "optionD": "VZBX",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which one of the following is always found in factories?",
+        "optionA": "Chimney",
+        "optionB": "Workers",
+        "optionC": "Electricity",
+        "optionD": "Sellers",
+        "Correct": "Correct answer is BNo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is found necessarily in a game?",
+        "optionA": "Player",
+        "optionB": "Spectators",
+        "optionC": "Referee",
+        "optionD": "Victory",
+        "Correct": "Correct answer is ANo explanation has been provided for this answer."
+    },
+    {
+        "Question": "What is found necessarily in a race?",
+        "optionA": "Judge",
+        "optionB": "Spectators",
+        "optionC": "Competitor",
+        "optionD": "Prize",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A camera always has",
+        "optionA": "Reels",
+        "optionB": "Flash",
+        "optionC": "Stand",
+        "optionD": "Lens",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which one of the following is always associated with 'justice'?",
+        "optionA": "Hypocrisy",
+        "optionB": "Legitimate",
+        "optionC": "Magnanimity",
+        "optionD": "Diminutiveness",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which one of the following is always associated with 'tree'?",
+        "optionA": "Flowers",
+        "optionB": "Leaves",
+        "optionC": "Fruits",
+        "optionD": "Roots",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The Sun rises in the east and sets in the west.",
+        "optionA": "Always",
+        "optionB": "Never",
+        "optionC": "Often",
+        "optionD": "Sometimes",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Management always involves",
+        "optionA": "Regulation",
+        "optionB": "Counsel",
+        "optionC": "Exhortation",
+        "optionD": "Coercion",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A disease always has",
+        "optionA": "Cure",
+        "optionB": "Germs",
+        "optionC": "Cause",
+        "optionD": "Patient",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A car always has",
+        "optionA": "Driver",
+        "optionB": "Wheels",
+        "optionC": "Radio",
+        "optionD": "Bumper",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A lotus flower always has",
+        "optionA": "Mud",
+        "optionB": "Petals",
+        "optionC": "Root",
+        "optionD": "Water",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A mirror always",
+        "optionA": "Retracts",
+        "optionB": "Distorts",
+        "optionC": "Refracts",
+        "optionD": "Reflects",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A bulb always has",
+        "optionA": "Glass",
+        "optionB": "Current",
+        "optionC": "Filament",
+        "optionD": "Light",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Disclosure always involves",
+        "optionA": "Agents",
+        "optionB": "Display",
+        "optionC": "Exposition",
+        "optionD": "Secrets",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which one of the following must a 'Drama' have?",
+        "optionA": "Actors",
+        "optionB": "Story",
+        "optionC": "Sets",
+        "optionD": "Director",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which one of the following is always with 'Bargain'?",
+        "optionA": "Exchange",
+        "optionB": "Sumptuousness",
+        "optionC": "Triviality",
+        "optionD": "Eloquence",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is found necessarily in milk?",
+        "optionA": "Cream",
+        "optionB": "Curd",
+        "optionC": "Water",
+        "optionD": "Whiteness",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A song always has",
+        "optionA": "Word",
+        "optionB": "Chorus",
+        "optionC": "Musician",
+        "optionD": "Tymbal",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A train always has",
+        "optionA": "Rails",
+        "optionB": "Driver",
+        "optionC": "Guard",
+        "optionD": "Engine",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The following question is based on the information below:\nSix flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.\nQ gets a North facing flat and is not next to S.\nS and U get diagonally opposite flats.\nR next to U, gets a south facing flat and T gets North facing flat.The flats of which of the other pair than SU, is diagonally opposite to each other?",
+        "optionA": "QP",
+        "optionB": "QR",
+        "optionC": "PT",
+        "optionD": "TS",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The following question is based on the information below:\nSix flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.\nQ gets a North facing flat and is not next to S.\nS and U get diagonally opposite flats.\nR next to U, gets a south facing flat and T gets North facing flat.Which of the following combination gets south facing flats?",
+        "optionA": "QTS",
+        "optionB": "UPT",
+        "optionC": "URP",
+        "optionD": "Data is inadequate",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The following question is based on the information below:\nSix flats on a floor in two rows facing North and South are allotted to P, Q, R, S, T and U.\nQ gets a North facing flat and is not next to S.\nS and U get diagonally opposite flats.\nR next to U, gets a south facing flat and T gets North facing flat.If the flats of P and T are interchanged then whose flat will be next to that of U?",
+        "optionA": "P",
+        "optionB": "Q",
+        "optionC": "R",
+        "optionD": "T",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The following question is based on the information below:\nA # B means B is at 1 metre to the right of A.\nA $ B means B is at 1 metre to the North of A.\nA * B means B is at 1 metre to the left of A.\nA @ B means B is at 1 metre to the south of A.\nIn the question below, first person from the left is facing North.According to P # R $ A * U, in which direction is U with respect to P?",
+        "optionA": "East",
+        "optionB": "West",
+        "optionC": "North",
+        "optionD": "South",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The following question is based on the information below:\nA # B means B is at 1 metre to the right of A.\nA $ B means B is at 1 metre to the North of A.\nA * B means B is at 1 metre to the left of A.\nA @ B means B is at 1 metre to the south of A.\nIn the question below, first person from the left is facing North.According to M # N $ T, T is in which direction with respect to M?",
+        "optionA": "North-West",
+        "optionB": "North-East",
+        "optionC": "South-West",
+        "optionD": "South-East",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The following question is based on the information below:\nA # B means B is at 1 metre to the right of A.\nA $ B means B is at 1 metre to the North of A.\nA * B means B is at 1 metre to the left of A.\nA @ B means B is at 1 metre to the south of A.\nIn the question below, first person from the left is facing North.According to X @ B * P, P is in which direction with respect to X?",
+        "optionA": "North",
+        "optionB": "South",
+        "optionC": "North-East",
+        "optionD": "South-West",
+        "Correct": "Correct answer is D"
+    }
+]

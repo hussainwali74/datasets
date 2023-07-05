@@ -1,0 +1,346 @@
+[
+    {
+        "Question": "Which of the following can be found as a part of the mitochondrial matrix?",
+        "optionA": "Ribosomes",
+        "optionB": "DNA",
+        "optionC": "Enzymes",
+        "optionD": "All of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The fluid matrix of a cell is called the",
+        "optionA": "nucleus",
+        "optionB": "cytosol",
+        "optionC": "cytoskeleton",
+        "optionD": "endoplasmic reticulum",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following observations is not used as evidence to support the concept of endosymbiotic origin of chloroplasts and mitochondria?",
+        "optionA": "Both have their own DNA",
+        "optionB": "Both have their own ribosomes",
+        "optionC": "Both strongly resemble prokaryotes, especially in size",
+        "optionD": "Both can live and function independently of the cell",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Specialized type of peroxisome and the site of glyoxylate pathway in certain plants is known as",
+        "optionA": "gly-peroxisome",
+        "optionB": "lysosome",
+        "optionC": "glyoxysome",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following statements about the outer mitochondrial membrane is not true?",
+        "optionA": "The outer membrane is impermeable to hydrogen ions",
+        "optionB": "The outer membrane is highly permeable to substances of small molecular weight",
+        "optionC": "The outer membrane is about 50% lipid and 50% protein by weight",
+        "optionD": "The outer membrane contains porins",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The cell membrane is made up of",
+        "optionA": "lipoproteins",
+        "optionB": "cellulose",
+        "optionC": "phospholipids",
+        "optionD": "phosphoproteins",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "If complex III were incorporated into an artificial lipid vesicle in order to demonstrate it's proton translocating ability in isolation, which of the following would be an appropriate electron donor?",
+        "optionA": "Cytochrome c red",
+        "optionB": "Cytochrome c peroxidase",
+        "optionC": "Ubiquinol (UQH2)",
+        "optionD": "Cytochrome c oxidase",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The composition of the inner mitochondrial membrane is most like that of",
+        "optionA": "the outer mitochondrial membrane",
+        "optionB": "the cell's plasma membrane",
+        "optionC": "some bacterial plasma membranes",
+        "optionD": "the nuclear membrane",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If the ester bonds of a triacylglycerol molecule are broken, then the kind of molecule which would be soluble in water is",
+        "optionA": "fatty acid",
+        "optionB": "steroid",
+        "optionC": "glycogen",
+        "optionD": "glycerol",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Cellular organelles are embedded in the",
+        "optionA": "endoplasmic reticulum",
+        "optionB": "cristae",
+        "optionC": "cytosol",
+        "optionD": "microtubules",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following statements about mitochondrial proteins is true?",
+        "optionA": "All mitochondrial proteins are coded for and synthesized in the mitochondria",
+        "optionB": "Some mitochondrial proteins are coded for and synthesized in the mitochondria and others",
+        "optionC": "All mitochondrial proteins are imported from the cytoplasm",
+        "optionD": "Mitochondrial proteins arise from other mitochondrial proteins",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The cellular organelle associated with secretion is the",
+        "optionA": "golgi complex",
+        "optionB": "mitochondrion",
+        "optionC": "ribosome",
+        "optionD": "lysosome",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Both plant and animal cell possess",
+        "optionA": "cell walls",
+        "optionB": "mitochondria",
+        "optionC": "central vacuoles",
+        "optionD": "chloroplast",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following experimental results does not support Mitchell's chemiosmosis theory?",
+        "optionA": "Electron transport in isolated mitochondria was shown to result in acidification of the medium",
+        "optionB": "Addition of dinitrophenol to isolated mitochondria was shown to inhibit electron transport, but had no effect on ATP synthesis",
+        "optionC": "Addition of dinitrophenol to isolated mitochondria during electron transport was shown to inhibit acidification of the medium",
+        "optionD": "An artificial proton gradient across the inner mitochondrial membrane drives ATP synthesis in the absence of electron transport",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Cellular metabolism is an example of",
+        "optionA": "equilibrium metabolism",
+        "optionB": "steady-state metabolism",
+        "optionC": "a series of reactions occurring under standard conditions",
+        "optionD": "a series of reactions that defy the second law of thermodynamics",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The cellular organelle associated with photosynthesis is the",
+        "optionA": "golgi complex",
+        "optionB": "mitochondrion",
+        "optionC": "lysosome",
+        "optionD": "chloroplast",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "What is the source of free energy (ΔG) for moving protons out of mitochondria against their concentration and electrical gradients?",
+        "optionA": "Glycolysis",
+        "optionB": "Creatine phosphate",
+        "optionC": "The redox reactions of electron transport",
+        "optionD": "ATP",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following is not an electron carrier class in the electron transport chain?",
+        "optionA": "Flavoproteins",
+        "optionB": "Cytochromes",
+        "optionC": "Iron - sulfur proteins",
+        "optionD": "Cytochrome c oxidase",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "\"The universe tends towards maximum disorder\" is stated by",
+        "optionA": "first law of thermodynamics",
+        "optionB": "second law of thermodynamics",
+        "optionC": "third law of thermodynamics",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which part of a plant contains the male sex cell?",
+        "optionA": "Ova",
+        "optionB": "Style",
+        "optionC": "Stamen",
+        "optionD": "Pollen",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Chemical energy is supplied to eukaryotic cells by",
+        "optionA": "chloroplasts and golgi complexes",
+        "optionB": "mitochondria and ribosomes",
+        "optionC": "mitochondria only",
+        "optionD": "mitochondria and chloroplasts",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "A cell without cell wall is called",
+        "optionA": "apoplast",
+        "optionB": "protoplast",
+        "optionC": "symplast",
+        "optionD": "none of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Tonoplast is a membrane around",
+        "optionA": "cytoplasm",
+        "optionB": "vacuole",
+        "optionC": "nucleus",
+        "optionD": "mitochondria",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which cell type is likely to have the most mitochondria?",
+        "optionA": "Fast-twitch muscle",
+        "optionB": "Slow-twitch muscle",
+        "optionC": "Liver cells",
+        "optionD": "Adipose cells",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Lysosomes are associated with",
+        "optionA": "photosynthesis",
+        "optionB": "respiration",
+        "optionC": "storage",
+        "optionD": "digestion",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Why do some redox reactions in cells result in the transfer of electrons from a reductant with a higher standard redox potential to an oxidant with a lower standard redox potential?",
+        "optionA": "Redox potentials are defined under standard conditions, and cellular conditions are typically not standard conditions",
+        "optionB": "The rules governing oxidation and reduction apply only in vitro, and not in vivo",
+        "optionC": "Electrons always go from reductants with high redox potentials to oxidants with low redox potentials",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Mitochondria can be expected most numerous in",
+        "optionA": "green cells",
+        "optionB": "red blood cells",
+        "optionC": "muscle cells",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following elements is likely to form the least polar covalent bond with hydrogen?",
+        "optionA": "Nitrogen",
+        "optionB": "Oxygen",
+        "optionC": "Carbon",
+        "optionD": "Phosphorus",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "If the ends of the following polysaccharide are pulled, which one would stretch the most?",
+        "optionA": "Glycogen",
+        "optionB": "Starch",
+        "optionC": "Cellulose",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which is not true about a photon?",
+        "optionA": "It is a packet of light energy",
+        "optionB": "The shorter the wavelength, the greater the energy of the photons",
+        "optionC": "It is trapped by photosynthetic unit",
+        "optionD": "It donates electron to reduce carbon dioxide to glucose",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following functional groups would make a carbon-based compound the least polar?",
+        "optionA": "Phosphate",
+        "optionB": "Methyl",
+        "optionC": "Carboxyl",
+        "optionD": "Amino",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The element neon (Ne) has eight electrons in its outermost electron shell. How many covalent bonds will Ne readily form?",
+        "optionA": "None",
+        "optionB": "One",
+        "optionC": "Two",
+        "optionD": "Four",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Any system that is not at equilibrium",
+        "optionA": "is thermodynamically unstable, although it may be kinetically stable",
+        "optionB": "is kinetically unstable, although it may be thermodynamically stable",
+        "optionC": "is rushing toward equilibrium at a very rapid rate",
+        "optionD": "requires an enzyme to reach equilibrium",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The shortest of mitotic phases is the",
+        "optionA": "telophase",
+        "optionB": "interphase",
+        "optionC": "metaphase",
+        "optionD": "anaphase",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "When F1 plants are crossed with homozygous recessive plants, it is known as",
+        "optionA": "test cross",
+        "optionB": "recessive cross",
+        "optionC": "criss-cross",
+        "optionD": "para-cross",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The homologous chromosomes follow the process of synopsis in the",
+        "optionA": "leptotene",
+        "optionB": "zygotene",
+        "optionC": "pachytene",
+        "optionD": "diplotene",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following transposable elements are not found in plants?",
+        "optionA": "Ac",
+        "optionB": "Tam3",
+        "optionC": "L1",
+        "optionD": "All are found",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "During meiosis, crossing over takes place at",
+        "optionA": "zygotene stage",
+        "optionB": "diplotene stage",
+        "optionC": "diakinesis stage",
+        "optionD": "pachytene stage",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "When do kinetochore microtubules pull chromosomes towards opposite spindle poles?",
+        "optionA": "In anaphase A",
+        "optionB": "In anaphase B",
+        "optionC": "In metaphase",
+        "optionD": "In telophase",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "When an organism has a life cycle with alternation of generations, the haploid generation is the",
+        "optionA": "zygote",
+        "optionB": "gametophyte",
+        "optionC": "gamete",
+        "optionD": "sporophyte",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the approximate size (in kb) of the melon mitochondrial genome?",
+        "optionA": "600 kilobase",
+        "optionB": "1200 kilobase",
+        "optionC": "2400 kilobase",
+        "optionD": "3000 kilobase",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "In the meiotic cell divison, daughter cells are produced by two successive division in which",
+        "optionA": "first division is equational, second is reductional",
+        "optionB": "first division is reductional and second is equational",
+        "optionC": "both divisions are reductional",
+        "optionD": "both divisions are equational",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "In case of incomplete dominance, the phenotypic ratio of a monohybrid cross will be",
+        "optionA": "1:2:1",
+        "optionB": "3:1:1",
+        "optionC": "1:3:1",
+        "optionD": "1:1:2",
+        "Correct": "Correct answer is A"
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "Question": "An aeroplane is flying horizontally with a velocity of 600 km/h and at a height of 1960 m. When it is vertically at a point A on the ground, a bomb is released from it. The bomb strikes the ground at point B. The distance AB is",
+        "optionA": "1200 m",
+        "optionB": "0.33 km",
+        "optionC": "3.33 km",
+        "optionD": "33 km",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Rain is falling vertically downwards. To a man running east-wards, the rain will appear to be coming from",
+        "optionA": "east",
+        "optionB": "west",
+        "optionC": "northeast",
+        "optionD": "southeast",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Intensity of sound has",
+        "optionA": "an object existence",
+        "optionB": "a subject existence",
+        "optionC": "no existence",
+        "optionD": "both subjective and objective existence",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Minimum number of unequal vectors which can give zero resultant are",
+        "optionA": "two",
+        "optionB": "three",
+        "optionC": "four",
+        "optionD": "more than four",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "It is easier to roll a barrel full of coal tar than to pull it because",
+        "optionA": "the full weight of the barrel comes into play when it is pulled",
+        "optionB": "the rolling friction is much less than the sliding friction",
+        "optionC": "more surface area of the barrel is in contact with the road when it is pulled",
+        "optionD": "coal tar is a liquid and it flows in the barrel when it is rolled",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Mica is used in electrical appliances such as electric iron because mica is",
+        "optionA": "a good conductor of heat but a bad conductor of electricity",
+        "optionB": "a bad conductor of heat but a good conductor of electricity",
+        "optionC": "a good conductor of heat as well as electricity",
+        "optionD": "a bad conductor of heat as well as electricity",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "One nanometer is equal to",
+        "optionA": "10-6m",
+        "optionB": "10-8m",
+        "optionC": "10-9m",
+        "optionD": "10-5m",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Planets are",
+        "optionA": "luminous heavenly bodies revolving around a star",
+        "optionB": "non-luminous heavenly bodies",
+        "optionC": "luminous heavenly bodies that twinkle",
+        "optionD": "luminous heavenly bodies that do not twinkle",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Natural radioactivity was discovered by",
+        "optionA": "Marie Curie",
+        "optionB": "Ernest Rutherfor",
+        "optionC": "Henri Becquerel",
+        "optionD": "Enrico Fermi",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "One should not connect a number of electrical appliances to the same power socket because",
+        "optionA": "this can damage the appliances due to overloading",
+        "optionB": "this can damage the domestic wiring due to overloading",
+        "optionC": "this can damage the electrical meter",
+        "optionD": "the appliance will not get full voltage",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Large astronomical telescopes always use ___________ as objective",
+        "optionA": "lens",
+        "optionB": "mirror",
+        "optionC": "combinations of lenses",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Identify the vector quantity from the following",
+        "optionA": "Heat",
+        "optionB": "Angular momentum",
+        "optionC": "Time",
+        "optionD": "Work",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Radiocarbon dating technique is used to estimate the age of",
+        "optionA": "rocks",
+        "optionB": "monuments",
+        "optionC": "soil",
+        "optionD": "fossils",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In which of the following industries is mica as a raw material?",
+        "optionA": "Cement",
+        "optionB": "Glass and Pottery",
+        "optionC": "Iron and Steel",
+        "optionD": "Electrical",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "One watt-hour is equivalent to",
+        "optionA": "6.3 x 103 J",
+        "optionB": "6.3 x 10-7 J",
+        "optionC": "3.6 x 103 J",
+        "optionD": "3.6 x 10-3 J",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Solar eclipse will take place when",
+        "optionA": "the sun is between the moon and the earth",
+        "optionB": "the earth is between the moon and the sun",
+        "optionC": "the moon is between the sun and the earth",
+        "optionD": "the moon does not lie on the line joining the sun and the earth",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "ML2T-2 is the dimensional formula for",
+        "optionA": "moment of inertia",
+        "optionB": "pressure",
+        "optionC": "elasticity",
+        "optionD": "couple acting on a body",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Stars which appear single to the naked eye but are double when seen through a telescope are",
+        "optionA": "novas and supernovas",
+        "optionB": "binaries",
+        "optionC": "asteroids",
+        "optionD": "quasars",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "On a stationary sail boat, air is blown from a fan attached to the boat. The boat",
+        "optionA": "moves in opposite direction in which the air is blown",
+        "optionB": "does not move",
+        "optionC": "moves in the same direction in which air blows",
+        "optionD": "spins around",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Mach number is used in connection with the speed of",
+        "optionA": "cars",
+        "optionB": "aircraft",
+        "optionC": "trains",
+        "optionD": "ships",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Supersonic plane fly with the speed",
+        "optionA": "less than the speed of sound",
+        "optionB": "of sound",
+        "optionC": "greater than the speed of sound",
+        "optionD": "of light",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Light from the star, Alpha Centauri, which is nearest to the earth after the sun, reaches the earth in",
+        "optionA": "4.2 seconds",
+        "optionB": "42 seconds",
+        "optionC": "4.2 years",
+        "optionD": "42 years",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Optical fibre works on the",
+        "optionA": "principle of refraction",
+        "optionB": "total internal reflection",
+        "optionC": "scattering",
+        "optionD": "interference",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Mercury is commonly used as a thermometric fluid rather than water because",
+        "optionA": "specific heat of mercury is less than water",
+        "optionB": "specific heat of mercury is more than water",
+        "optionC": "mercury has greater visibility than water",
+        "optionD": "density of mercury is more than the water",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Out of the following pairs, which one does not have identical dimension?",
+        "optionA": "Moment of inertia and moment of a force",
+        "optionB": "Work and Torque",
+        "optionC": "Angular momentum and Planck's constant",
+        "optionD": "Impulse and Momentum",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Light Emitting Diodes (LED) used in fancy electronic devices such as toys, emit",
+        "optionA": "X-rays",
+        "optionB": "ultraviolet light",
+        "optionC": "visible light",
+        "optionD": "radio waves",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Radio telescopes are better than optical telescopes because",
+        "optionA": "they can detect faint galaxies which no optical telescope can",
+        "optionB": "they can work even in cloudy conditions",
+        "optionC": "they can work during the day and night",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Intensity of sound at a point is ____ its distance from the source.",
+        "optionA": "directly proportional to",
+        "optionB": "inversely proportional to",
+        "optionC": "directly proportional to square of",
+        "optionD": "inversely proportional to square of",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Sound produced at a point is heard by a person after 5 seconds, while the same sound is heard by another person after 6 seconds. If the speed of sound is 300 m/s, what could be the maximum and minimum distances between the two persons?",
+        "optionA": "1.8 km, 0.15 km",
+        "optionB": "2.2 km, 0.20 km",
+        "optionC": "2.8 km, 0.25 km",
+        "optionD": "3.3 km, 0.30 km",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "On a cold day when a room temperature is 15oC, the metallic cap of a pen becomes much colder than its plastic body, though both are at the same temperature of 15oC, because",
+        "optionA": "metals have higher thermal capacity than plastics",
+        "optionB": "plastics have a lower density than metals",
+        "optionC": "metals are good conductors of heat",
+        "optionD": "plastics have a higher thermal conductivity than metals",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Railway tracks are banked on curves",
+        "optionA": "so necessary centrifugal force may be obtained from the horizontal component weight of the train",
+        "optionB": "to avoid frictional force between the tracks and wheels",
+        "optionC": "so necessary centripetal force may be obtained from the horizontal component of the weight of the train",
+        "optionD": "so the train may not fly off in the opposite direction",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Light travels at the fastest speed in",
+        "optionA": "glass",
+        "optionB": "water",
+        "optionC": "hydrogen",
+        "optionD": "vacuum",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Superconductors are substances which",
+        "optionA": "conduct electricity at low temperature",
+        "optionB": "offer high resistance to the flow of current",
+        "optionC": "offer no resistance to the flow of electricity",
+        "optionD": "conduct electricity at high temperatures",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Oil rise up the wick in a lamp. The principle involves",
+        "optionA": "the diffusion of oil through the wick",
+        "optionB": "the liquid state of oil",
+        "optionC": "capillary action phenomenon",
+        "optionD": "volatility of oil",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sound travels at the fastest speed in",
+        "optionA": "steel",
+        "optionB": "water",
+        "optionC": "air",
+        "optionD": "vacuum",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "One thousand microns is equal to",
+        "optionA": "10-3m",
+        "optionB": "10-6m",
+        "optionC": "10-9m",
+        "optionD": "10-12m",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Inside an aeroplane, flying at a high altitude,",
+        "optionA": "the pressure is the same as that outside",
+        "optionB": "normal atmospheric pressure is maintained by the use of air pumps",
+        "optionC": "the pressure inside is less than the pressure outside",
+        "optionD": "normal humidity and partial vacuum are maintained",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Moment of inertia is",
+        "optionA": "vector",
+        "optionB": "scalar",
+        "optionC": "phasor",
+        "optionD": "tensor",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "It takes much longer to cook food in the hills than in the plains, because",
+        "optionA": "in the hills, the atmospheric pressure is lower than that in the plains and therefore water boils at a temperature lower than 100oC causing an increase in cooking time",
+        "optionB": "due to low atmospheric pressure on the hills, the water boils at a temperature higher than 100oC and therefore water takes longer to boil",
+        "optionC": "in the hills, the atmospheric density is low and therefore a lot of heat is lost to the atmosphere",
+        "optionD": "in the hills, the humidity is high and therefore a lot of heat is absorbed by the atmosphere leaving very little heat for cooking",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Stars twinkle because",
+        "optionA": "the intensity of light emitted by them changes with time",
+        "optionB": "the distance of the stars from the earth changes with time",
+        "optionC": "the refractive index of the different layers of the earth's atmosphere changes continuously, consequently the position of the image of a star changes with time",
+        "optionD": "the light from the star is scattered by the dust particles and air molecules in the earth's atmosphere",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Suitable impurities are added to a semiconductor depending on its use. This is done in order to",
+        "optionA": "increase its life",
+        "optionB": "enable it to withstand higher voltages",
+        "optionC": "increase its electrical conductivity",
+        "optionD": "increase its electrical resistivity",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "On a clean glass plate, a drop of water spreads to form a thin layer whereas a drop of mercury remains almost spherical because",
+        "optionA": "mercury is a metal",
+        "optionB": "density of mercury is greater than that of water",
+        "optionC": "cohesion of mercury is greater than its adhesion with glass",
+        "optionD": "cohesion of water is greater than its adhesion with glass",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sound of frequency below 20 Hz is called",
+        "optionA": "audio sounds",
+        "optionB": "infrasonic",
+        "optionC": "ultrasonic",
+        "optionD": "supersonics",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "RADAR is used for",
+        "optionA": "locating submerged submarines",
+        "optionB": "receiving signals in a radio receiver",
+        "optionC": "locating geostationary satellites",
+        "optionD": "detecting and locating the position of objects such as aeroplanes",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Materials for rain-proof coats and tents owe their water-proof properties to",
+        "optionA": "surface tension",
+        "optionB": "viscosity",
+        "optionC": "specific gravity",
+        "optionD": "elasticity",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "On a rainy day, small oil films on water show brilliant colours. This is due to",
+        "optionA": "dispersion",
+        "optionB": "interference",
+        "optionC": "diffraction",
+        "optionD": "polarization",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Lux is the SI unit of",
+        "optionA": "intensity of illumination",
+        "optionB": "luminous efficiency",
+        "optionC": "luminous flux",
+        "optionD": "luminous intensity",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Of the following properties of a wave, the one that is independent of the other is its",
+        "optionA": "amplitude",
+        "optionB": "velocity",
+        "optionC": "wavelength",
+        "optionD": "frequency",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Find the maximum velocity for the overturn of a car moving on a circular track of radius 100 m. The co-efficient of friction between the road and tyre is 0.2",
+        "optionA": "0.14 m/s",
+        "optionB": "140 m/s",
+        "optionC": "1.4 km/s",
+        "optionD": "14 m/s",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "It is more difficult to walk on a sandy road than on a concrete road because",
+        "optionA": "sand is soft and concrete is hard",
+        "optionB": "the friction between sand and feet is less than that between concrete and feet",
+        "optionC": "the friction between sand and feet is more than that between concrete and feet",
+        "optionD": "the sand is grainy but concrete is smooth",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Magnetism at the centre of a bar magnet is",
+        "optionA": "minimum",
+        "optionB": "maximum",
+        "optionC": "zero",
+        "optionD": "minimum or maximum",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Sound waves in air are",
+        "optionA": "transverse",
+        "optionB": "longitudinal",
+        "optionC": "electromagnetic",
+        "optionD": "polarised",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Out of the following, which is not emitted by radioactive substance?",
+        "optionA": "Electrons",
+        "optionB": "Electromagnetic radiations",
+        "optionC": "Alpha particles",
+        "optionD": "Neutrons",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Rectifiers are used to convert",
+        "optionA": "Direct current to Alternating current",
+        "optionB": "Alternating current to Direct current",
+        "optionC": "high voltage to low voltage",
+        "optionD": "low voltage to high voltage",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "If two bodies of different masses, initially at rest, are acted upon by the same force for the same time, then the both bodies acquire the same",
+        "optionA": "velocity",
+        "optionB": "momentum",
+        "optionC": "acceleration",
+        "optionD": "kinetic energy",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Out of the following pairs, choose the pair in which the physical quantities do not have identical dimension?",
+        "optionA": "Pressure and Young's modules",
+        "optionB": "Planck's constant and Angular momentum",
+        "optionC": "Impulse and moment of force",
+        "optionD": "Force and rate of change of linear momentum",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Let a thin capillary tube be replaced with another tube of insufficient length then, we find water",
+        "optionA": "will overflow",
+        "optionB": "will not rise",
+        "optionC": "depressed",
+        "optionD": "change its meniscus",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Metals are good conductors of electricity because",
+        "optionA": "they contain free electrons",
+        "optionB": "the atoms are lightly packed",
+        "optionC": "they have high melting point",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Planets do not twinkle because",
+        "optionA": "they emit light of a constant intensity",
+        "optionB": "their distance from the earth does not change with time",
+        "optionC": "they are very far away from the earth resulting in decrease in intensity of light",
+        "optionD": "they are nearer to earth and hence we receive a greater amount of light and, therefore minor variations in the intensity are not noticeable",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Pascal (Pa) is the unit for",
+        "optionA": "thrust",
+        "optionB": "pressure",
+        "optionC": "frequency",
+        "optionD": "conductivity",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Stars appear to move from east to west because",
+        "optionA": "all stars move from east to west",
+        "optionB": "the earth rotates from west to east",
+        "optionC": "the earth rotates from east to west",
+        "optionD": "the background of the stars moves from west to east",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Light from the Sun reaches us in nearly",
+        "optionA": "2 minutes",
+        "optionB": "4 minutes",
+        "optionC": "8 minutes",
+        "optionD": "16 minutes",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Mirage is due to",
+        "optionA": "unequal heating of different parts of the atmosphere",
+        "optionB": "magnetic disturbances in the atmosphere",
+        "optionC": "depletion of ozone layer in the atmosphere",
+        "optionD": "equal heating of different parts of the atmosphere",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Nuclear sizes are expressed in a unit named",
+        "optionA": "Fermi",
+        "optionB": "angstrom",
+        "optionC": "newton",
+        "optionD": "tesla",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Large transformers, when used for some time, become very hot and are cooled by circulating oil. The heating of the transformer is due to",
+        "optionA": "the heating effect of current alone",
+        "optionB": "hysteresis loss alone",
+        "optionC": "both the heating effect of current and hysteresis loss",
+        "optionD": "intense sunlight at noon",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Siphon will fail to work if",
+        "optionA": "the densities of the liquid in the two vessels are equal",
+        "optionB": "the level of the liquid in the two vessels are at the same height",
+        "optionC": "both its limbs are of unequal length",
+        "optionD": "the temperature of the liquids in the two vessels are the same",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The absorption of ink by blotting paper involves",
+        "optionA": "viscosity of ink",
+        "optionB": "capillary action phenomenon",
+        "optionC": "diffusion of ink through the blotting",
+        "optionD": "siphon action",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "It is easier to roll a stone up a sloping road than to lift it vertical upwards because",
+        "optionA": "work done in rolling is more than in lifting",
+        "optionB": "work done in lifting the stone is equal to rolling it",
+        "optionC": "work done in both is same but the rate of doing work is less in rolling",
+        "optionD": "work done in rolling a stone is less than in lifting it",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Radiocarbon is produced in the atmosphere as a result of",
+        "optionA": "collision between fast neutrons and nitrogen nuclei present in the atmosphere",
+        "optionB": "action of ultraviolet light from the sun on atmospheric oxygen",
+        "optionC": "action of solar radiations particularly cosmic rays on carbon dioxide present in the atmosphere",
+        "optionD": "lightning discharge in atmosphere",
+        "Correct": "Correct answer is A"
+    }
+]

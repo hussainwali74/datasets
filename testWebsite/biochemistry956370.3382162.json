@@ -1,0 +1,386 @@
+[
+    {
+        "Question": "Which amino acid when exposed to ninhydrin produces a brown color?",
+        "optionA": "Asparagine",
+        "optionB": "Proline",
+        "optionC": "Alanine",
+        "optionD": "Valine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Coomassie Blue stains the proteins by reacting with",
+        "optionA": "arginine residues",
+        "optionB": "free c-termini",
+        "optionC": "peptide bonds",
+        "optionD": "aromatic ring",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The α-amino acids have a carboxyl group with a pK around __________ , and an amino group with a pK near __________ .",
+        "optionA": "1.1, and 12.1",
+        "optionB": "6.5, and 8.0",
+        "optionC": "3.3, and 10.5",
+        "optionD": "2.2, and 9.4",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Stereo chemical configuration of all a-amino acids derived from proteins is",
+        "optionA": "L",
+        "optionB": "D",
+        "optionC": "L and D",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is not the hydrophobic and aromatic amino acid?",
+        "optionA": "Phenylalanine",
+        "optionB": "Tyrosine",
+        "optionC": "Tryptophan",
+        "optionD": "None of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Serine and threonine are polar amino acids due to",
+        "optionA": "reactive hydroxyl group in the side chain",
+        "optionB": "reactive alcoholic group in the side chain",
+        "optionC": "reactive keto group in the side chain",
+        "optionD": "reactive aldehyde group in the side chain",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is a non-protein amino acid?",
+        "optionA": "Dopamine",
+        "optionB": "Hydroxylysine",
+        "optionC": "Cystine",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The sulphur containing side chain of cysteine is",
+        "optionA": "ampiphillic, highly reactive and capable of reacting with another cysteine",
+        "optionB": "hydrophillc, highly reactive and capable of reacting with another cysteine",
+        "optionC": "hydrophobic, highly reactive and capable of reacting with another cysteine",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The sequence of letters 'WYQN' will represent",
+        "optionA": "Tryptophan, tyrosine, glutamic acid, asparagine",
+        "optionB": "Tryptophan, tyrosine, glutamine, asparagine",
+        "optionC": "Tryptophan, glutamine, tryptophan, asparagine",
+        "optionD": "Glutamine, tyrosine, tryptophan, aspartic acid",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Amino acids required in the human diet and not synthesized by the body are called",
+        "optionA": "specialized",
+        "optionB": "trace",
+        "optionC": "essential",
+        "optionD": "accessory",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "How many different amino acids are there?",
+        "optionA": "3",
+        "optionB": "20",
+        "optionC": "100",
+        "optionD": "An infinite number",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the product of the catabolic breakdown of Alanine?",
+        "optionA": "Fumarate",
+        "optionB": "Oxaloacetate",
+        "optionC": "Pyruvate",
+        "optionD": "Malate",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Proteins and macromolecular structures take on their higher order structures",
+        "optionA": "by self-assembly",
+        "optionB": "with the help of molecular chaperons",
+        "optionC": "with the help of precursor sequences that are removed from the final structures",
+        "optionD": "all of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is not a sensible grouping of amino acids based on their polarity properties?",
+        "optionA": "Ala, Leu, and Val",
+        "optionB": "Arg, His, and Lys",
+        "optionC": "Phe, Trp, and Tyr",
+        "optionD": "Asp, Ile, and Pro",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is not an essential amino acid?",
+        "optionA": "Aspartic acid",
+        "optionB": "Glutamic acid",
+        "optionC": "Glycine",
+        "optionD": "All of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following amino acid is known as half-cystine residue?",
+        "optionA": "Cysteine",
+        "optionB": "Isoleucine",
+        "optionC": "Valine",
+        "optionD": "Histidine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Protein fluorescence arises primarily from which residue?",
+        "optionA": "Arginine",
+        "optionB": "Tryptophan",
+        "optionC": "Tyrosine",
+        "optionD": "Phenylalanine",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following is an essential amino acid?",
+        "optionA": "Tryptophan",
+        "optionB": "Methionine",
+        "optionC": "Lysine",
+        "optionD": "All of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which pair of amino acids absorbs the most UV light at 280 nm?",
+        "optionA": "Threonine & Histidine",
+        "optionB": "Trp & Tyrosine",
+        "optionC": "Cystein & Asparagine",
+        "optionD": "Phenylalnine & Proline",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the average mass of an amino acid residue in a polypeptide?",
+        "optionA": "110 daltons",
+        "optionB": "118 daltons",
+        "optionC": "80 daltons",
+        "optionD": "150 daltons",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following pairs of amino acids would carry a negative charge on their side chain at pH 8.0?",
+        "optionA": "Asparagine & Glutamine",
+        "optionB": "Leucine & Glycine",
+        "optionC": "Histidine & Lysine",
+        "optionD": "Aspartate & Glutamate",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "D-Alanine and L-Alanine are technically known as",
+        "optionA": "anomers",
+        "optionB": "enantiomers",
+        "optionC": "epimers",
+        "optionD": "polymer",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "An essential amino acid is one that",
+        "optionA": "is essentially easy to synthesize",
+        "optionB": "is essential to flagella motion",
+        "optionC": "the body cannot synthesize",
+        "optionD": "the body can synthesize under essential conditions",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which amino acids would most likely reside in the membrane-anchoring domain of a membrane embedded protein?",
+        "optionA": "Isoleucine, valine and phenylalanine",
+        "optionB": "Phenylalanine, valine, and aspartate",
+        "optionC": "Leucine, threonine, and lysine",
+        "optionD": "Lysine, arginine and histidine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the product of the catabolic breakdown of Arginine?",
+        "optionA": "Alpha-ketoglutarate",
+        "optionB": "Fumarate",
+        "optionC": "Oxaloacetate",
+        "optionD": "Succinate",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Molecules that bear charged groups of opposite polarity are known as",
+        "optionA": "zwitterions",
+        "optionB": "ambions",
+        "optionC": "ion conversion",
+        "optionD": "amphions",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The isoelectric point of an amino acid is defined as the pH",
+        "optionA": "where the molecule carries no electric charge",
+        "optionB": "where the carboxyl group is uncharged",
+        "optionC": "where the amino group is uncharged",
+        "optionD": "of maximum electrolytic mobility",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is the heaviest of the twenty amino acids?",
+        "optionA": "Phenylalanine",
+        "optionB": "Tryptophan",
+        "optionC": "Tyrosine",
+        "optionD": "Histidine",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "What is the end product of leucine metabolism?",
+        "optionA": "Acetyl-CoA",
+        "optionB": "Pyruvic acid",
+        "optionC": "Oxaloacetic acid",
+        "optionD": "Acetyl carnitine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "When the amino acid alanine (R-group is CH3) is added to a solution with a pH of 7.3, alanine becomes",
+        "optionA": "a cation",
+        "optionB": "nonpolar",
+        "optionC": "a zwitterions",
+        "optionD": "an isotope",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A person suffering from phenylketonuria on consumption of food containing high phenylalanine may lead to the accumulation of",
+        "optionA": "phenylalanine",
+        "optionB": "phenylpyruvate",
+        "optionC": "tyrosine",
+        "optionD": "isoleucine",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A best described ketogenic amino acid is",
+        "optionA": "lysine",
+        "optionB": "tryptophan",
+        "optionC": "valine",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A ketogenic amino acid is one which degrades to",
+        "optionA": "keto-sugars",
+        "optionB": "either acetyl CoA or acetoacetyl CoA",
+        "optionC": "pyruvate or citric acid cycle intermediates",
+        "optionD": "multiple intermediates including pyruvate or citric acid cycle intermediates and acetyl CoA or acetoacetyl CoA",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Lysine is degraded to acetoacetyl CoA and is described as a",
+        "optionA": "ketogenic amino acid",
+        "optionB": "glucogenic amino acid",
+        "optionC": "keto-gluco amino acid",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Transamination is the transfer of an amino",
+        "optionA": "acid to a carboxylic acid plus ammonia",
+        "optionB": "group from an amino acid to a keto acid",
+        "optionC": "acid to a keto acid plus ammonia",
+        "optionD": "group from an amino acid to a carboxylic acid",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "In the normal breakdown of phenylalanine, it is initially degraded to",
+        "optionA": "fumarate",
+        "optionB": "tyrosine",
+        "optionC": "lysine",
+        "optionD": "phenylpuruvate",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A person with phenylketonuria will convert",
+        "optionA": "phenylalanine to phenylpyruvate",
+        "optionB": "phenylalanine to isoleucine",
+        "optionC": "phenylpyruvate to phenylalanine",
+        "optionD": "tyrosine to phenylalanine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Transaminase enzymes are present in",
+        "optionA": "liver",
+        "optionB": "pancreas",
+        "optionC": "intestine",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Tyrosine is degraded to acetoacetyl CoA and fumarate and is described as a",
+        "optionA": "glucogenic amino acid",
+        "optionB": "ketogenic amino acid",
+        "optionC": "ketogenic and glucogenic amino acid",
+        "optionD": "keto-gluco amino acid",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A person with phenylketonuria is advised not to consume which of the following products?",
+        "optionA": "Glycine containing foods",
+        "optionB": "Fat containing food",
+        "optionC": "Glucose",
+        "optionD": "Aspartame",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The most toxic compound is",
+        "optionA": "tyrosine",
+        "optionB": "phenylpyruvate",
+        "optionC": "lysine",
+        "optionD": "phenylalanine",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Transamination is the process where",
+        "optionA": "carboxyl group is transferred from amino acid",
+        "optionB": "α-amino group is removed from the amino acid",
+        "optionC": "polymerisation of amino acid takes place",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "An example of a transamination process is",
+        "optionA": "glutamate = hexanoic acid + NH3",
+        "optionB": "aspartate + hexanoic acid = glutamate + oxaloacetate",
+        "optionC": "aspartate + α ketoglutarate = glutamate + oxaloacetate",
+        "optionD": "glutamate = α-ketoglutarate + NH3",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Oxidative deamination is the conversion of an amino",
+        "optionA": "group from an amino acid to a keto acid",
+        "optionB": "acid to a carboxylic acid plus ammonia",
+        "optionC": "acid to a keto acid plus ammonia",
+        "optionD": "group from an amino acid to a carboxylic acid",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "A person with phenylketonuria cannot convert",
+        "optionA": "phenylalanine to tyrosine",
+        "optionB": "phenylalanine to isoleucine",
+        "optionC": "phenol into ketones",
+        "optionD": "phenylalanine to lysine",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "A glucogenic amino acid is one which is degraded to",
+        "optionA": "keto-sugars",
+        "optionB": "either acetyl CoA or acetoacetyl CoA",
+        "optionC": "pyruvate or citric acid cycle intermediates",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following amino acids is considered as both ketogenic and glucogenic?",
+        "optionA": "Valine",
+        "optionB": "Tryptophan",
+        "optionC": "Lysine",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Histidine is degraded to α-ketoglutarate and is described as a",
+        "optionA": "gluco amino acid",
+        "optionB": "glucogenic amino acid",
+        "optionC": "ketogenic amino acid",
+        "optionD": "keto-gluco amino acid",
+        "Correct": "Correct answer is B"
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "Question": "The Archaea include all of the following except",
+        "optionA": "methanogens",
+        "optionB": "halophiles",
+        "optionC": "thermoacidophiles",
+        "optionD": "cyanobacteria",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The endosymbiosis hypothesis provides an explanation for how",
+        "optionA": "eukaryotes developed from prokayotes",
+        "optionB": "prokaryotes developed from eukaryotes",
+        "optionC": "algae developed from protozoa",
+        "optionD": "protozoa developed from algae",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What are Blue-Green bacteria called?",
+        "optionA": "Acquaobacteria",
+        "optionB": "Cyanobacteria",
+        "optionC": "Protozoa",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The word, cell was first used by",
+        "optionA": "Robert Hooke",
+        "optionB": "Theodor Schwann",
+        "optionC": "Louis Pasteur",
+        "optionD": "Ronald Ross",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following structure is present in prokaryotic cells?",
+        "optionA": "Mitochondria",
+        "optionB": "Chloroplasts",
+        "optionC": "Chloroplasts",
+        "optionD": "Mesosome",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is a characteristic unique to the ciliates?",
+        "optionA": "Use of cilia as a sensory function",
+        "optionB": "Presence of both a macronucleus and several micronuclei",
+        "optionC": "Both (a) and (b)",
+        "optionD": "Possess a light-detecting eye spot",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The binomial name of a microbe is composed of",
+        "optionA": "its kingdom and genus names",
+        "optionB": "its genus name and a species modifier",
+        "optionC": "its family and class names",
+        "optionD": "its genus and species names",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Eukaryotic micro organisms include",
+        "optionA": "protozoa",
+        "optionB": "fungi",
+        "optionC": "algae",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "All of the following individuals contributed to cell theory except",
+        "optionA": "Robert Hooke",
+        "optionB": "Matthias Schleiden",
+        "optionC": "Theodor Schwann",
+        "optionD": "Rudolf Virchow",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "What is Mycology?",
+        "optionA": "Study of viruses",
+        "optionB": "Study of nucleic acid",
+        "optionC": "Study of bacteria",
+        "optionD": "Study of fungi",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which cell type is considered to have the oldest ancestor?",
+        "optionA": "Archaea",
+        "optionB": "Bacteria",
+        "optionC": "Eukarya",
+        "optionD": "they all share the same ancestor",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "All the following are considered eukaryotes except",
+        "optionA": "archaea",
+        "optionB": "fungi",
+        "optionC": "protozoa",
+        "optionD": "humans",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is the most primitive?",
+        "optionA": "Virus",
+        "optionB": "Eukaryote",
+        "optionC": "Archaeon",
+        "optionD": "Mitochondria",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following is not found in the kingdom Monera?",
+        "optionA": "Organelles",
+        "optionB": "Organized cell structure",
+        "optionC": "Ability to reproduce",
+        "optionD": "Ability to use energy",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Carl Woese and his colleague are best known for establishing",
+        "optionA": "the five kingdom system",
+        "optionB": "the three domain system",
+        "optionC": "the prokaryote-eukaryote system",
+        "optionD": "the plant-animal system",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "One of the reasons for the evolutionary success of the kingdom Monera is that its members are nutritionally diverse. Which of the following(s) is/are the way(s) of obtaining energy?",
+        "optionA": "Photoautotrophy",
+        "optionB": "Photoheterotrophy",
+        "optionC": "Chemoheterotrophy",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "In the three domain system of classification, the traditional bacteria are placed in the",
+        "optionA": "eukarya",
+        "optionB": "archaea",
+        "optionC": "eubacteria",
+        "optionD": "none of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Archeal cells usually do not contain peptidoglycan, rather contain pseudo-peptidoglycan which is mainly composed of",
+        "optionA": "N-acetylmuramic acid and L-amino acids",
+        "optionB": "N-acetylmuramic acid and D-amino acids",
+        "optionC": "N-acetyltalosaminuronic acid and D-amino acids",
+        "optionD": "N-acetyltalosaminuronic acid and L-amino acids",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The idea of selective toxicity was first proposed by",
+        "optionA": "Antony van Leeuwenhoek",
+        "optionB": "Paul Ehrlich",
+        "optionC": "Louis Pasteur",
+        "optionD": "Alexander Fleming",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following microorganisms is classified as a member of archaebacteria?",
+        "optionA": "Gyanobacteria",
+        "optionB": "Methanobacteria",
+        "optionC": "Trichomonads",
+        "optionD": "Mycoplasma",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "All the following are basic properties of cells except",
+        "optionA": "cells have nuclei and mitochondria",
+        "optionB": "cells have a genetic programme and the means to use it",
+        "optionC": "cells are capable of producing more of themselves",
+        "optionD": "cells are able to respond to stimuli",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Prokaryotic microorganism include",
+        "optionA": "protozoa",
+        "optionB": "fungi",
+        "optionC": "bacteria",
+        "optionD": "all of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Who discovered the bacteria that cause cholera?",
+        "optionA": "Pierre Berthelot",
+        "optionB": "Robert Koch",
+        "optionC": "Louis Pasteur",
+        "optionD": "Rudolf Virchow",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Eukaryotic cell organelles first emerged",
+        "optionA": "from a specialized lineage of cells within the kingdom Protista",
+        "optionB": "when prokaryotes engulfed each other and became interdependent",
+        "optionC": "when bacteria made their first attempts at reproduction",
+        "optionD": "just before the origin of the animal and fungal kingdoms",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The third kingdom, protista, as suggested by E.H. Haeckel includes",
+        "optionA": "bacteria",
+        "optionB": "algae",
+        "optionC": "fungi",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The first organism in most natural food chains is",
+        "optionA": "a herbivore",
+        "optionB": "a decomposer",
+        "optionC": "photosynthetic",
+        "optionD": "carnivorous",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Micro organisms are found in which of the following kingdom of five kingdom concept (Whittaker's classification)?",
+        "optionA": "Monera",
+        "optionB": "Protista",
+        "optionC": "Fungi",
+        "optionD": "All of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Most microbial structures and enzymes are composed of",
+        "optionA": "lipids",
+        "optionB": "proteins",
+        "optionC": "carbohydrates",
+        "optionD": "lipids and carbohydrates",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The foundation for the germ theory of disease was set down by",
+        "optionA": "Robert Koch",
+        "optionB": "Ronald Ross",
+        "optionC": "Louis Pasteur",
+        "optionD": "Walter Reed",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "The three domain version of life on earth is based on the",
+        "optionA": "nucleic acid sequence data",
+        "optionB": "morphological traits",
+        "optionC": "metabolic traits",
+        "optionD": "characteristics of the cell wall",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following best represents the hierarchy of levels of biological classification?",
+        "optionA": "Phylum, kingdom, class, order, genus, species, family",
+        "optionB": "Kingdom, phylum, class, order, family, genus, species",
+        "optionC": "Kingdom, phylum, family, class, order, genus, species",
+        "optionD": "Class, order, kingdom, phylum, family, genus, species",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Genetic and biochemical similarities between contemporary cyanobacteria and eukaryotic chloroplasts are accepted to mean that",
+        "optionA": "eukaryotes evolved from bacteria",
+        "optionB": "eukaryotes evolved from archaea",
+        "optionC": "oxygenic photosynthesis first evolved in eukaryotes",
+        "optionD": "cyanobacteria arose from chloroplasts which escaped from plant cells",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Which of the following may account for the small size of the cells?",
+        "optionA": "The rate of diffusion",
+        "optionB": "The surface area/volume ratio",
+        "optionC": "The number of mRNAs that can be produced by the nucleus",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is/are included in Kingdom Prokaryotae?",
+        "optionA": "Bacteria",
+        "optionB": "Protozoa",
+        "optionC": "Fungi",
+        "optionD": "All of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following structures is the smallest?",
+        "optionA": "Viriod",
+        "optionB": "Hydrogen atom",
+        "optionC": "Bacterium",
+        "optionD": "Mitochondrion",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "All of the following are features of prokaryotes except",
+        "optionA": "nitrogen fixation",
+        "optionB": "photosynthesis",
+        "optionC": "sexual reproduction",
+        "optionD": "locomotion",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Primary differences between cilia and flagella are",
+        "optionA": "arrangement of microtubules",
+        "optionB": "length and location of basal bodies",
+        "optionC": "how the microtubules are fused to each other",
+        "optionD": "number, length and direction of force",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The membranes of which domains are chemically the most similar?",
+        "optionA": "Archaea and Bacteria",
+        "optionB": "Bacteria and Eukarya",
+        "optionC": "Eukarya and Archaea",
+        "optionD": "membranes of all three domains are chemically identical",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The five-kingdom system of classification was set up by",
+        "optionA": "Louis Pasteur",
+        "optionB": "Robert Whittaker",
+        "optionC": "Robert Koch",
+        "optionD": "Masaki Ogata",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Cell theory includes all of the following except",
+        "optionA": "all organisms are composed of one or more cells",
+        "optionB": "the cell is the most primitive form of life",
+        "optionC": "the cell is the structural unit of life",
+        "optionD": "cells arise by division of preexisting cells",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "A characteristic of protein synthesis in both the archaea and eukarya is",
+        "optionA": "transcription and translation are coupled",
+        "optionB": "translation is inhibited by diphtheria toxin",
+        "optionC": "proteins are synthesized from D-, rather than L-, isomers of amino acids",
+        "optionD": "the initiator tRNA is charged with N-formyl-methionine",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which one is not studied in microbiology?",
+        "optionA": "Bacteria",
+        "optionB": "Animal behaviour",
+        "optionC": "Fungi",
+        "optionD": "Algae",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Who was the inventor of the Petri dish?",
+        "optionA": "R.J. Petri, an assistant of R. Koch",
+        "optionB": "A famous French cook",
+        "optionC": "Italian glass blower from Petri, Italy",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following structures is absent in eukaryotic cells?",
+        "optionA": "Mitochondria",
+        "optionB": "Chloroplasts",
+        "optionC": "Golgi structure",
+        "optionD": "Mesosome",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Mycoplasmas, rickettsiae, and chlamydiae are",
+        "optionA": "types of fungi",
+        "optionB": "small bacteria",
+        "optionC": "species of protozoa",
+        "optionD": "forms of viruses",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Living organisms have many complex characteristics. Which one of the following is shared by non-living matter as well?",
+        "optionA": "Homeostasis",
+        "optionB": "Tissues",
+        "optionC": "Reproduction",
+        "optionD": "Molecules",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Various bacterial species can be subdivided into",
+        "optionA": "subspecies",
+        "optionB": "biovarieties",
+        "optionC": "serovarieties",
+        "optionD": "all of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Which of the following is considered the most unifying concept in biology?",
+        "optionA": "Taxonomy",
+        "optionB": "Anatomy",
+        "optionC": "Genetics",
+        "optionD": "Evolution",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Gram staining was introduced by",
+        "optionA": "Christian Gram",
+        "optionB": "Alfred Gram",
+        "optionC": "Robert Cook",
+        "optionD": "Louis Pasteur",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Which of the following is not true for prokaryotic organism?",
+        "optionA": "Nucleus is not bounded by nuclear membrane",
+        "optionB": "Chromosomes do not contain histones",
+        "optionC": "80S ribosomes are distributed in cytoplasm",
+        "optionD": "Cell wall contains peptidoglycan as one of the major component",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Which of the following is not true for eukaryotic cells?",
+        "optionA": "Nucleus is bounded by nuclear membrane",
+        "optionB": "Chromosomes contain histones",
+        "optionC": "Chloroplasts and mitochondria contains 70S ribosomes",
+        "optionD": "Gas vacuoles are present",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Evolutionary relationships between groups of organisms are determined using which of the following type of information?",
+        "optionA": "Comparisons of nucleotide sequences",
+        "optionB": "Comparisons of biochemical pathways",
+        "optionC": "Comparisons of structural features",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Mycoplasmas are different from the other prokaryotes by",
+        "optionA": "presence of chitin in cell walls",
+        "optionB": "presence of murrain in cell walls",
+        "optionC": "presence of proteins in cell walls",
+        "optionD": "absence of cell wall itself",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "The unifying feature of the archaea that distinguishes them from the bacteria is",
+        "optionA": "habitats which are extreme environments with regard to acidity",
+        "optionB": "absence of a nuclear membrane temperature",
+        "optionC": "presence of a cell wall containing a characteristic outer membrane",
+        "optionD": "cytoplasmic ribosomes that are 70S",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The phospholipids present in cytoplasm membrane of eubacteria is mainly",
+        "optionA": "phosphoglycerides",
+        "optionB": "polyisoprenoid",
+        "optionC": "phospholipoprotein",
+        "optionD": "none of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "The oldest eukaryotic organisms are considered to be",
+        "optionA": "diplomonads like Giardia",
+        "optionB": "archaea",
+        "optionC": "fungi",
+        "optionD": "animals",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The phospholipids present in cytoplasm membrane of the archaeo-bacteria is",
+        "optionA": "phosphoglycerides",
+        "optionB": "polyisoprenoid",
+        "optionC": "polyisoprenoid branched chain lipids",
+        "optionD": "none of the above",
+        "Correct": "Correct answer is C"
+    }
+]

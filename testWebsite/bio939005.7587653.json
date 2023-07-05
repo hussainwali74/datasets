@@ -1,0 +1,554 @@
+[
+    {
+        "Question": "Mycobacterium leprae causes leprosy, Corynebacterium diphtheria causes diphtheria and Vibrio comma causes",
+        "optionA": "tetanus",
+        "optionB": "influenza",
+        "optionC": "cholera",
+        "optionD": "typhoid",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Ptyalin is an enzyme produced in the",
+        "optionA": "salivary glands",
+        "optionB": "pituitary glands",
+        "optionC": "thyroid glands",
+        "optionD": "pancreas",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Nitrogen is fixed in ecosystems in ways stated below. Which one of the statements below is false?",
+        "optionA": "By cyanobacteria",
+        "optionB": "By electrical discharges in the atmosphere",
+        "optionC": "By industrially synthesised fertilizer",
+        "optionD": "By denitrification",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Pollen grains in plants are produced in",
+        "optionA": "roots",
+        "optionB": "leaves",
+        "optionC": "flower",
+        "optionD": "stem",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Pollination by wind is called",
+        "optionA": "anemophily",
+        "optionB": "hydrophily",
+        "optionC": "zoophily",
+        "optionD": "entomophily",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Mutation is",
+        "optionA": "a factor responsible for plant growth",
+        "optionB": "a change which affects the offspring of F2 generation only",
+        "optionC": "a change that is inherited",
+        "optionD": "a change which affects the parents",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Oxyreductases, transferases, hydrolases, lyases, isomerases and ligases are all classes of",
+        "optionA": "hormones",
+        "optionB": "enzymes",
+        "optionC": "proteins",
+        "optionD": "vitamins",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Plants that grow under average temperature and moisture are called",
+        "optionA": "halophytes",
+        "optionB": "hydrophytes",
+        "optionC": "mesophytes",
+        "optionD": "xerophytes",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "One day you wake with a sore throat and a runny nose. Your doctor takes a swab from your throat, sends it to a lab, and telephones you the next day to say that antibiotic will not help you get better. Which of the following is the most likely reason for the doctor's statement?",
+        "optionA": "Having waited a day, it is too late to take an antibiotic",
+        "optionB": "You need an antiseptic, not an antibiotic",
+        "optionC": "You need to be vaccinated instead of taking an antibiotic",
+        "optionD": "You are infected by a virus",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Oxygen in our blood is transported by a protein named",
+        "optionA": "haemoglobin",
+        "optionB": "keratin",
+        "optionC": "collagen",
+        "optionD": "myoglobin",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Pulses are a good source of",
+        "optionA": "carbohydrates",
+        "optionB": "fats",
+        "optionC": "proteins",
+        "optionD": "vitamins",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "One of the following is most suitable for study of mutations",
+        "optionA": "Haploids",
+        "optionB": "Diploids",
+        "optionC": "Tetraploids",
+        "optionD": "Polyploid",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Plants are killed in winter by frost",
+        "optionA": "because of desiccation and mechanical damage to the tissues",
+        "optionB": "because no photosynthesis takes place at such low temperature",
+        "optionC": "because respiration ceases at such low temperature",
+        "optionD": "because there is no transpiration",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Number of chromosomes in Down's syndrome is",
+        "optionA": "46",
+        "optionB": "47",
+        "optionC": "48",
+        "optionD": "49",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Rain water helps to increase the ____ to some extent.",
+        "optionA": "phosphorous contents",
+        "optionB": "nitrogen contents",
+        "optionC": "calcium contents",
+        "optionD": "potash contents",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Mumps is a disease caused by",
+        "optionA": "fungus",
+        "optionB": "bacterium",
+        "optionC": "virus",
+        "optionD": "None of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Most abundant tissues of the human body are",
+        "optionA": "muscular",
+        "optionB": "connective",
+        "optionC": "epithelial",
+        "optionD": "nervous",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Is cucumber botanically a fruit, vegetable or tuber?",
+        "optionA": "fruit",
+        "optionB": "vegetable",
+        "optionC": "tuber",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Movements due to light are shown by",
+        "optionA": "flowering plants",
+        "optionB": "lower plants",
+        "optionC": "all land plants",
+        "optionD": "all the plants",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Our major foods: fibres, spices, fruits and beverage crops are called",
+        "optionA": "flowering plants",
+        "optionB": "gymnosperms plants",
+        "optionC": "pteridophytes",
+        "optionD": "bryophytes",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Organic substances which, in very small amounts, control growth and development is called",
+        "optionA": "vitamins",
+        "optionB": "hormones",
+        "optionC": "enzymes",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Radioactivity is a phenomenon of the spontaneous emission of",
+        "optionA": "protons (alpha particles)",
+        "optionB": "electrons (beta particles)",
+        "optionC": "gamma rays (short wave electromagnetic waves)",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Monocot root differs from dicot root in having",
+        "optionA": "open vascular bundles",
+        "optionB": "scattered vascular bundles",
+        "optionC": "well developed pith",
+        "optionD": "radially arranged vascular bundles",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Night blindness is caused by lack of which vitamin?",
+        "optionA": "Vitamin A",
+        "optionB": "Vitamin B",
+        "optionC": "Vitamin C",
+        "optionD": "Vitamin D",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Norepinephrine increases",
+        "optionA": "respiration",
+        "optionB": "urine production",
+        "optionC": "saliva production",
+        "optionD": "blood pressure",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Pigmentation of skin is due to",
+        "optionA": "lymphocytes",
+        "optionB": "monocytes",
+        "optionC": "leucocytes",
+        "optionD": "melanocytes",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "On which of the following plants did Gregor Mendal perform his classical experiment?",
+        "optionA": "Gram",
+        "optionB": "Maize",
+        "optionC": "Pea",
+        "optionD": "Wheat",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "What is osmosis?",
+        "optionA": "A process by which molecules of a solvent tend to pass through a semipermeable membrane from a less concentrated solution into a more concentrated one.",
+        "optionB": "A process by which a solution tends to pass through a permeable membrane from a less concentrated solution into a more concentrated one.",
+        "optionC": "A process by which molecules of a solution tend to pass through a semipermeable membrane from a more concentrated solution into a less concentrated one.",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Plants have ____ while animals lack it.",
+        "optionA": "starch",
+        "optionB": "cellulose",
+        "optionC": "protein",
+        "optionD": "fat",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "The process in which a plant grows towards source of light is known as",
+        "optionA": "geotropism",
+        "optionB": "thigmotropism",
+        "optionC": "chemotropism",
+        "optionD": "phototropism",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Radial vascular bundles are those in which",
+        "optionA": "xylem is surrounded by phloem",
+        "optionB": "phloem is surrounded by xylem",
+        "optionC": "xylem and phloem occur on the same radius",
+        "optionD": "xylem and phloem occur on the different radii",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Poison glands of snakes are homologous to",
+        "optionA": "electric organs of fishes",
+        "optionB": "stings of rays",
+        "optionC": "sebaceous glands of mammals",
+        "optionD": "salivary glands of vertebrates",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Monotremes are unique mammals because they",
+        "optionA": "posses hair",
+        "optionB": "give birth to live young",
+        "optionC": "secret milk in a pouch",
+        "optionD": "lay eggs",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Plants wilt due to excess of",
+        "optionA": "transpiration",
+        "optionB": "photosynthesis",
+        "optionC": "absorption",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Normal adult human male has",
+        "optionA": "10 gram of haemoglobin/100 gram of blood",
+        "optionB": "14 gram of haemoglobin/100 gram of blood",
+        "optionC": "18 gram of haemoglobin/100 gram of blood",
+        "optionD": "24 gram of haemoglobin/100 gram of blood",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Ramapithecus and Cro-Magnon man are considered",
+        "optionA": "ancestors of modern man",
+        "optionB": "ancestors of monkey",
+        "optionC": "ancestors of lion",
+        "optionD": "None of the above",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Plants growing on sand are called as",
+        "optionA": "chasmophytes",
+        "optionB": "oxylophytes",
+        "optionC": "lithophytes",
+        "optionD": "psammophytes",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Plants developing in dry conditions are",
+        "optionA": "xerophytes",
+        "optionB": "mesophytes",
+        "optionC": "lithophytes",
+        "optionD": "hydrophytes",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Most of the red, blue and purple colours of plants are due to a pigment called",
+        "optionA": "anthocyanin",
+        "optionB": "carotene",
+        "optionC": "chlorophyll",
+        "optionD": "xanthophylls",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Myopia is connected with",
+        "optionA": "ears",
+        "optionB": "eyes",
+        "optionC": "lungs",
+        "optionD": "None of these",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Prothrombin which helps in clotting of blood is released by",
+        "optionA": "lymphocytes",
+        "optionB": "erythrocytes",
+        "optionC": "monocytes",
+        "optionD": "blood platelets",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Of the following taxonomic categories, which is the most inclusive (i.e. is the highest in hierarchy)?",
+        "optionA": "Order",
+        "optionB": "Subspecies",
+        "optionC": "Class",
+        "optionD": "Genus",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Potato is a modified form (outgrowth) of",
+        "optionA": "root",
+        "optionB": "stem",
+        "optionC": "fruit",
+        "optionD": "leaf",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Out of proteins, lipids and carbohydrates present in a cell membrane, what is true?",
+        "optionA": "Lipids are maximum",
+        "optionB": "Carbohydrates are minimum",
+        "optionC": "Carbohydrates are maximum",
+        "optionD": "All three are in equal proportion",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "N2 content is kept constant in the biosphere due to",
+        "optionA": "N2 fixation",
+        "optionB": "industrial pollution",
+        "optionC": "nitrogen cycle",
+        "optionD": "absorption of N2",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Neurospora is used as genetic material because",
+        "optionA": "it has short life cycle of 10 days",
+        "optionB": "the product of single meiosis can be easily analysed",
+        "optionC": "meiotic products are linearly arranged in the form of ordered tetrads",
+        "optionD": "is a diploid fungus",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Plants hormone that induces cell division is",
+        "optionA": "auxins",
+        "optionB": "gibberellins",
+        "optionC": "kinins",
+        "optionD": "domins",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Placenta is the structure formed",
+        "optionA": "by the union of foetal and uterine tissue",
+        "optionB": "by foetus only",
+        "optionC": "by fusion of germ layers",
+        "optionD": "None of these",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "O2 released in the process of photosynthesis comes from",
+        "optionA": "CO2",
+        "optionB": "water",
+        "optionC": "sugar",
+        "optionD": "pyruvic acid",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Pyorrhoea is a disease of the",
+        "optionA": "nose",
+        "optionB": "gums",
+        "optionC": "heart",
+        "optionD": "lungs",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Plants that grow in saline water are called",
+        "optionA": "halophytes",
+        "optionB": "hydrophytes",
+        "optionC": "mesophytes",
+        "optionD": "thallophytes",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Other than spreading malaria, anopheles mosquitoes are also vectors of",
+        "optionA": "dengue fever",
+        "optionB": "filariasis",
+        "optionC": "encephalitis",
+        "optionD": "yellow fever",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Primary phloem develops from",
+        "optionA": "lateral meristem",
+        "optionB": "protoderm",
+        "optionC": "extrastelar cambium",
+        "optionD": "provascular tissue",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Nucleus, the genetic material containing rounded body in each cell, was first discovered in 1831 by",
+        "optionA": "Robert Hooke",
+        "optionB": "Robert Brown",
+        "optionC": "Rudolf Virchow",
+        "optionD": "Theodore Schwann",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Prokaryotic cells lack",
+        "optionA": "nucleolus",
+        "optionB": "nuclear membrane",
+        "optionC": "membrane bound by organelles",
+        "optionD": "All of these",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Plant development is influenced by",
+        "optionA": "quality of light only",
+        "optionB": "quality and quantity of light",
+        "optionC": "quality and duration of light",
+        "optionD": "quality, quantity and duration of light",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Most highly intelligent mammals are",
+        "optionA": "whales",
+        "optionB": "dolphins",
+        "optionC": "elephants",
+        "optionD": "kangaroos",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Process of cell division can take place by",
+        "optionA": "heterosis",
+        "optionB": "fusion",
+        "optionC": "mitosis",
+        "optionD": "None of these",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Photo-oxidation is",
+        "optionA": "photorespiration",
+        "optionB": "photolysis",
+        "optionC": "light and oxygen induced breakdown",
+        "optionD": "All of the above",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Plants absorb most part of water needed by them through their",
+        "optionA": "embryonic zone",
+        "optionB": "growing point",
+        "optionC": "root hairs",
+        "optionD": "zone of elongation",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "One of the following is not a function of bones.",
+        "optionA": "Place for muscle attachment",
+        "optionB": "Protection of vital organs",
+        "optionC": "Secretion of hormones for calcium regulation in blood and bones",
+        "optionD": "Production of blood corpuscles",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Plants absorb dissolved nitrates from soil and convert them into",
+        "optionA": "free nitrogen",
+        "optionB": "urea",
+        "optionC": "ammonia",
+        "optionD": "proteins",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Plants synthesize protein from",
+        "optionA": "starch",
+        "optionB": "sugar",
+        "optionC": "amino acids",
+        "optionD": "fatty acids",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Photosynthesis generally takes place in which parts of the plant?",
+        "optionA": "Leaf and other chloroplast bearing parts",
+        "optionB": "Stem and leaf",
+        "optionC": "Roots and chloroplast bearing parts",
+        "optionD": "Bark and leaf",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Movement of cell against concentration gradient is called",
+        "optionA": "osmosis",
+        "optionB": "active transport",
+        "optionC": "diffusion",
+        "optionD": "passive transport",
+        "Correct": "Correct answer is B"
+    },
+    {
+        "Question": "Plants receive their nutrients mainly from",
+        "optionA": "chlorophyll",
+        "optionB": "atmosphere",
+        "optionC": "light",
+        "optionD": "soil",
+        "Correct": "Correct answer is D"
+    },
+    {
+        "Question": "Pollination is best defined as",
+        "optionA": "transfer of pollen from anther to stigma",
+        "optionB": "germination of pollen grains",
+        "optionC": "growth of pollen tube in ovule",
+        "optionD": "visiting flowers by insects",
+        "Correct": "Correct answer is A"
+    },
+    {
+        "Question": "Ozone hole refers to",
+        "optionA": "hole in ozone layer",
+        "optionB": "decrease in the ozone layer in troposphere",
+        "optionC": "decrease in thickness of ozone layer in stratosphere",
+        "optionD": "increase in the thickness of ozone layer in troposphere",
+        "Correct": "Correct answer is C"
+    },
+    {
+        "Question": "Ordinary table salt is sodium chloride. What is baking soda?",
+        "optionA": "Potassium chloride",
+        "optionB": "Potassium carbonate",
+        "optionC": "Potassium hydroxide",
+        "optionD": "Sodium bicarbonate",
+        "Correct": "Correct answer is D"
+    }
+]
